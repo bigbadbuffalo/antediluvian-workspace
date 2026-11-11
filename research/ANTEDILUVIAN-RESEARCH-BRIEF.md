@@ -1,78 +1,98 @@
-# Antediluvian — Source-Critical Research Brief
+# Antediluvian — Master Work Research Prompt
 
-**Status:** Approved research direction, not completed research or setting canon.  
-**Intended execution:** Research or Work session, in durable bounded stages.
+**Revision:** 2026-11-10. **Purpose:** Source-critical research for a human-centered biblical dark fantasy and mythic sword-and-sorcery RPG set before Noah's Flood.
 
 ## Assignment
 
-Build a thoroughly sourced research foundation for a tabletop RPG set in the biblical world **before Noah's Flood**. Genesis 1–11 is the central narrative/theological frame. Prioritize authentic ancient testimony and traceable interpretive history. Explore the Watchers, Nephilim, giants, demonic spirits, patriarchs, early settlements, forbidden knowledge, historical and mythic civilizations, cosmology, corruption, and divine judgment.
+Conduct a thorough, independent research program for **Antediluvian**, an original tabletop RPG setting in the biblical world before the Flood.
 
-Artistic invention and modern Christian alternative-history theories are welcome as **clearly labeled possibilities**, not as proof of ancient beliefs. Do not borrow distinctive lore from Vampire: The Masquerade, World of Darkness, or similar entertainment and present it as ancient.
+Work from the existing GitHub repository: https://github.com/bigbadbuffalo/antediluvian-workspace
 
-## Ground rules
+**First read:** `PROJECT-INSTRUCTIONS.md`, `canon/SETTING-FOUNDATIONS.md`, `docs/CANON-AND-SOURCE-MODEL.md`, `development/DECISION-LOG.md`, `development/OPEN-QUESTIONS.md`, `sources/SOURCE-REGISTER.md`, `research/SOURCE-AND-CLAIM-REGISTER.md`, and `research/RESEARCH-ROADMAP.md`. Follow applicable development protocols. Confirm access before claiming files have been read or written.
 
-1. **Source hierarchy, not universal truth ranking:** Biblical primary; ancient extrabiblical Jewish/related; ancient Near Eastern comparative; later Jewish/Christian reception; modern speculation; modern fiction (quarantine).
-2. Distinguish explicit passage, contested translation, fragment reconstruction, later interpretation, scholarly inference, modern assertion, and proposed fiction.
-3. For each consequential fact, supply exact scripture chapter/verse or manuscript/fragment designation; edition or translator; approximate composition date distinct from surviving manuscript; viable link/DOI if available.
-4. Disclose missing evidence, scholarly disagreement and variant texts. Do not manufacture quotations, source dates, archaeology, hidden manuscripts or confident cross-myth identifications.
-5. Respect different religious canons and receptions; do not collapse 1, 2 and 3 Enoch into a single work, identify all sons-of-God interpretations as angelic, or conflate Watchers and Satan without sources.
-6. Keep a concept's **historical-source status separate from its fictional setting status**. The latter is undecided until author approval.
-7. Review modern giant-skeleton, lost-technology, Atlantis, ancient-astronaut, serpent-seed, bloodline and supposed suppressed-text theories critically: provenance, first demonstrable advocates, actual evidence and hoaxes.
-8. Avoid full copyrighted source reproduction. Cite reputable editions, academic texts and institution-held material. Tell the author when verification is incomplete.
+The goal is a rigorous documentary foundation and carefully labeled worldbuilding options—not a prematurely finalized setting encyclopedia. Ancient evidence should guide invention, not restrict every creative choice. **Do not silently promote research or speculative ideas into setting canon.**
 
-## Research domains
+## Governing creative direction
 
-### I. Biblical primeval narrative
-Genesis 1–11; Creation/Eden/Fall; Cain, Abel, Seth, genealogies and longevity; Cain's city; Jabal, Jubal, Tubal-Cain; Enoch, Methuselah, Lamech, Noah; Genesis 6; wickedness and Flood. Investigate related Job, Psalms, Jude, 2 Peter and other relevant passages, noting which are not themselves descriptions of antediluvian events.
+**1. People first.** The main subjects are human lives, families, communities, cultures, cities, crafts, institutions, religion, politics, ambition, loyalty, war and moral choices. The Watchers, Nephilim and other supernatural actors may guide, rule, corrupt or terrorize humanity, but should not reduce humans to spectators in a monster catalogue. For every significant finding, ask what it changes for ordinary people, human rulers and playable adventures.
 
-### II. Watchers and heavenly rebellion
-1 Enoch Book of Watchers; Shemihazah, Asael/Azazel and name variants; descent/transgression, teaching of crafts and magic, offspring and sentence; angel taxonomy and divergences between sources. Distinguish Watchers material from unrelated Satanic rebellion traditions.
+**2. Mature age of the Nephilim.** The default period is a developed antediluvian world with mature civilizations and an established Nephilim presence. Exact chronology, forms, numbers and social roles remain open. Do not assume one disputed interpretation of Genesis 6 is already established setting truth.
 
-### III. Giants, Nephilim and demonic spirits
-Genesis 6:4; 1 Enoch 6–15 and relevant sections; Book of Giants and fragments; links/discontinuities with Rephaim, Anakim and later giant peoples; spirits of the dead giants; giant dreams, violence, scale and agency. Do not move post-Flood people or doctrines into pre-Flood chronology without labeling the move as a creative choice.
+**3. Before the Flood, not “The Flood: The RPG.”** The Flood is part of the biblical narrative and may be foreshadowed for knowledgeable readers, but is not the default campaign plot, countdown or organizing theme. Research the world as a place its inhabitants expect to continue living in.
 
-### IV. Human civilization and everyday life
-Cities, rulership, kinship, religious practices, trade, arts, metallurgy, animal husbandry, warfare, craft and labor. Separate biblical statements from archaeological analogy, plausible modeling and speculative lost technology. Ordinary humans must not disappear behind supernatural spectacle.
+**4. Genre and theological frame.** Combine **biblical dark fantasy with mythic sword-and-sorcery**: magnificent but unsettling cities, human heroes and villains, sorcery, adventure, spiritual danger and consequential choices. In the working fictional framework, God is real, sovereign, just and good, not automatically a villainous fantasy deity.
 
-### V. Geography and cosmology
-Eden and its rivers, Nod, primordial terrain, visionary mountains/journeys in Enochic texts; ancient conceptions of heaven, earth, waters and underworld. Distinguish literary/visionary cosmology from modern physical map reconstruction.
+**5. Advanced in different ways.** Cain-associated great cities may be extraordinarily sophisticated, but **not by replicating modern industrial civilization**. Do not default to firearms, airplanes, computers, factories or modern military technology. Investigate alternative paths involving sorcery, ritual knowledge, acoustics/resonance, proposed acoustic levitation, monumental engineering, special materials, astronomy, water management, medicine, and social organization. Determine possible costs, expertise, institutions, constraints and effects on labor and everyday life. Different cultures can excel in different domains.
 
-### VI. Ancient comparative traditions
-Sumerian King List, Atrahasis, Gilgamesh/Ziusudra/Utnapishtim, apkallu and other Mesopotamian traditions first; Levantine, Egyptian, Greek and more distant cultures only with sound dating and relevant comparison. Distinguish direct relationship, plausible diffusion, analogy and speculative equivalence.
+Acoustic levitation on the scale of ancient megalith-building is **not an established archaeological fact**. Popular alternative-history discussions, including those encountered through Joe Rogan and his guests, indicate a desired imaginative atmosphere, **not scholarly authority**. Separate physical phenomena demonstrated today, genuine ancient techniques, modern claims and invented magical mechanisms.
 
-### VII. Reception and theology
-Second Temple interpretations; Jewish and Christian commentary; sons-of-God as heavenly beings vs Sethite or royal/human readings; angels, demons and judgment; free will and responsibility; righteous minorities. Identify period and community for each reading rather than describing a unified “Christian tradition.”
+**6. Mythic expansion with provenance.** Begin with the Bible, Enochic literature and ancient Near Eastern traditions. Broaden later to other historically documented ancient or reconstructed prehistoric religions when the source base warrants it. Similar motifs are not proof of shared origins or literal identity. Deliberate combinations are welcome as explicitly original fictional synthesis.
 
-### VIII. Modern claims and derivative fiction
-Alternative prehistory, alleged nephilim ancestry, pre-Adamism, Atlantis, ancient astronauts, giants archaeology, occult Cain/Lilith elaborations, conspiratorial “hidden” manuscripts. Locate first verifiable publications and assess quality of evidence. Maintain an explicit modern fiction contamination check.
+**7. Later speculative biology.** Reserve a future research track for biological chimeras, composite monsters, human-animal hybrids, altered lineages, forbidden breeding, supernatural biological corruption, and related modern conspiracy narratives. Investigate genuine ancient depictions first, then trace later reinterpretations. Modern gene engineering or hybridization legends must never be presented as verified pre-Flood science. **No chimera technology or specific hybrid species is currently established as setting canon.**
 
-## Required outputs
+## Source hierarchy and critical standards
 
-**1 — Annotated source catalogue** in sources/, covering composition, witness, provenance, edition, passage references, reliability and research relevance.
+Maintain separate layers:
 
-**2 — Atomic claim ledger** in research/SOURCE-AND-CLAIM-REGISTER.md: unique claim IDs, source IDs, pinpoint citations, label (TEXT/VARIANT/RECEPTION/SCHOLARLY/SPECULATION/FICTION), competing evidence, and setting status UNDECIDED.
+1. **Biblical primary texts** — Genesis 1–11, with relevant Job, Psalms, Jude, 2 Peter and other passages. Distinguish original textual claims, translation and textual witnesses.
+2. **Ancient Jewish extrabiblical traditions** — 1 Enoch (especially the Book of the Watchers), Book of Giants, Jubilees, Genesis Apocryphon, relevant Dead Sea Scrolls and related traditions. Do not collapse 1, 2 and 3 Enoch or ignore composition and manuscript dates.
+3. **Ancient Near Eastern and comparative mythology** — Sumerian King List, Atrahasis, Gilgamesh, Ziusudra/Utnapishtim, apkallu traditions, relevant Levantine and Egyptian sources. Understand each independently before comparing.
+4. **Historical Jewish/Christian reception** — Second Temple, rabbinic, patristic, medieval and later interpretations, each assigned to its actual period and community.
+5. **Modern religious/esoteric/conspiracy claims** — lost antediluvian civilizations, giant skeletons, suppressed texts, advanced ancient technology, secret bloodlines and eventual biological chimera theories. Trace first demonstrable sources and evidentiary weaknesses.
+6. **Modern fiction** — including *Vampire: The Masquerade*, *World of Darkness* and similar media; quarantine as fiction, never evidence of antiquity. Do not incorrectly reject a legitimate ancient motif merely because modern fiction also uses it.
 
-**3 — Thematic source encyclopedia** with entries for Watchers, giants, key figures, human societies, geography and concepts; separate source testimony / commentary / scholarly interpretation / setting possibilities.
+Every important proposition must identify its **epistemic category**: TEXT (primary attestation), VARIANT (textual dispute), RECEPTION (later teaching), SCHOLARLY (academic inference), SPECULATION (unsupported/recent conjecture), or FICTION / CREATIVE IDEA.
 
-**4 — Comparative mythology matrix** tracking parallels and important disagreements, including the grade of connection (documented influence / plausible / thematic / unsupported).
+Provide chapter/verse or manuscript/fragment IDs, edition or translator, estimated composition date distinct from earliest surviving witness, and verifiable links when possible. Distinguish a historical claim that a *community believed something* from proof that a supernatural event literally happened. Clearly identify conflicting readings, incomplete fragments, dating disputes, hoaxes and missing evidence. Never invent citations or consensus. Avoid reproducing long copyrighted texts.
 
-**5 — Chronology and geography dossier** capturing source-specific timelines, dates that conflict, uncertain locations and visionary versus physical descriptions.
+## Research questions
 
-**6 — Modern contamination audit** naming allegedly ancient ideas whose provenance is demonstrably later; avoid incorrectly declaring every shared motif fiction-derived.
+### A — Human origins and primeval civilization
+Review Creation, Eden, the Fall, Cain, Abel, Seth, Cain's city (Genesis 4:17), genealogies, Enoch, Lamech, Methuselah and Noah, and traditions of longevity. Pay special attention to Jabal, Jubal and Tubal-Cain; cities, crafts, animal husbandry, instruments, metallurgy, violence, kinship and early worship. Explicitly distinguish what Genesis states from what a plausible or fantastical society could develop from it.
 
-**7 — Creative synthesis brief**: identify biblically grounded material, other ancient motifs, historically plausible reconstructions, explicit syntheses and wholly original additions. Propose playable conflicts and factions, but **do not silently create canon**.
+### B — Watchers, Nephilim and supernatural knowledge
+Investigate Genesis 6; 1 Enoch and the Book of Giants; Shemihazah, Asael/Azazel and textual name variants; forbidden arts; giant offspring, their violence and the traditions of evil spirits. Compare competing sons-of-God readings. Keep Watchers, Satan, giants, Rephaim, Anakim, demons and other categories separate unless a specified source links them.
 
-## Sequence
+### C — The people living under such powers
+Research early urbanization and historical comparanda for agriculture, labor, trade, cities, law, kingship, temples, warfare, household life, class hierarchy and material culture. Consider how extraordinary knowledge transforms everyday occupations, political authority and exploitation. Avoid claiming that later archaeological cultures have been proven to be Genesis's antediluvian people.
 
-1. **Discover/verify bibliographic anchors** and source witnesses; do not synthesize prematurely.
-2. **Research bounded thematic units**, updating claim IDs and provenance as you go.
-3. **Compare/reconcile carefully**, preserving contradictions rather than force-merging source traditions.
-4. **Propose creative options**, clearly labeled IDEA; seek author decisions where lore authority matters.
-5. **Audit completeness and contamination**; record what remains unsupported.
+### D — Mesopotamian and neighboring primeval traditions
+Study antediluvian kings, exceptionally long reigns, sages, divine-human encounters, primordial violence and flood stories. Compare source-specific details and score proposed links as **documented relationship, plausible influence, thematic analogy or unsupported equation**.
 
-## Working habits
+### E — Geography, cosmology and chronological problems
+Research Eden and its rivers, Nod, Enochic journeys and mountains, the heavens and underworld, competing chronologies and the limits of physical cartographic reconstruction. Do not treat visionary cosmology automatically as modern geographic reportage.
 
-Read PROJECT-INSTRUCTIONS and current source register first. For long passes, finish and commit discrete batches before shifting contexts. Cite each claim in its own destination entry; do not depend exclusively on an enormous conversation transcript. When output is large, give an index and stored document paths.
+### F — Alternative advancement and modern speculation
+Research claims about resonant architecture, acoustic levitation, lost advanced civilization, esoteric construction, monumental precision, occult or angelic arts, unusual materials and supposed archaeological suppression. Trace actual ancient precedents and modern proponents. Distinguish demonstrable physics from unsupported claims and game-worthy speculation. Examine who controls specialized arts, their costs, social consequences and the possibility that advancement is deeply unequal.
 
-**Initial task:** Start with a source roadmap, catalogue the foundational Genesis and Enochic primary witnesses, and document unresolved source-text choices. Do not treat a planned source list as verified research.
+### G — Reserved future inquiry: chimeras and hybrids
+Catalogue genuine ancient composite beings, their symbolic contexts and textual dates. Only in a later pass compare speculative human-animal hybrids, engineered organisms, magical creation and modern conspiracy theories. Never treat myths as proof of genetic laboratories. Preserve potential creative ideas for author review.
 
+## Outputs to preserve in the repository
+
+1. **Annotated source catalogue:** verified primary sources and scholarly editions, stable SRC IDs, cultural provenance, composition vs manuscript dates, relevant passages, bibliographic links and uncertainty.
+2. **Atomic claim register:** CLAIM IDs, exact text/witness pointers, layer classification, contradictions, verification status and setting status **UNDECIDED** unless author-approved.
+3. **Thematic research dossiers:** human society, Watchers/Nephilim, Near Eastern comparisons, cosmology, reception and modern claims; clearly separated into evidence, interpretation and possible worldbuilding.
+4. **Chronology and comparison matrices:** source-specific chronologies, figures, relationships and strength of proposed parallels.
+5. **Modern contamination audit:** identify recent claims passed off as ancient, hoaxes, interpretive conflations and borrowed modern RPG/fantasy inventions.
+6. **Human-centered creative synthesis:** proposed cultures, cities, crafts, power structures, adventures, conflicts and limitations on extraordinary knowledge, each labeled IDEA and cross-referenced to sources.
+7. **Audit and checkpoint:** significant omissions, contrary evidence, open questions, exact next batch and repository files changed.
+
+Use `development/DEEP-DIVE-PROTOCOL.md` for formal lore development: **SCOPE → RESEARCH → WORKSHOP → DECIDE → INTEGRATE → AUDIT → REVIEW → CLOSE**. Research alone does not establish in-world truth. Require explicit author decisions for consequential theological, historical-synthesis or worldbuilding choices. Preserve evidence and decisions in durable files rather than only chat messages. Do not publish a wiki or introduce private spoilers into this currently public GitHub repository.
+
+## Sequence and immediate task
+
+Work in bounded, clearly documented passes:
+
+- **Pass 1:** Genesis 1–11 and biblical testimony about early human society, Cain's descendants, cities and arts.
+- **Pass 2:** Watchers, Nephilim, Book of Giants, Jubilees and Genesis Apocryphon, with textual and dating care.
+- **Pass 3:** Ordinary life, urban civilization, political economy and alternative *non-industrial* sophistication.
+- **Pass 4:** Mesopotamian primeval myths and later carefully selected comparative traditions.
+- **Pass 5:** Dated Jewish and Christian interpretation.
+- **Pass 6:** Modern alternative-history claims, sorcery/resonance and their actual provenance.
+- **Later optional pass:** Biological chimeras and hybrids, after ancient traditions are securely documented.
+- **Synthesis:** Source-linked creative proposals, not unauthorized canon.
+
+At each pass, provide a readable summary of discoveries, competing views and limitations; save sources and claim IDs; record the exact next step. Advance routine research without repeated confirmation, but defer consequential fictional truth choices to the author.
+
+**Begin now with Pass 1:** inventory the actual repository state, establish a verified core bibliography, and research Genesis's human world with special attention to Cain, his descendants, skills and early settlement. Do not let the Flood or supernatural beings eclipse the lived human world.
