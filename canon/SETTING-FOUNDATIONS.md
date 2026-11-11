@@ -4,7 +4,7 @@ type: meta
 status: canon
 visibility: player
 source_refs: []
-decision_refs: [DEC-001, DEC-002, DEC-003, DEC-004, DEC-005, DEC-006]
+decision_refs: [DEC-001, DEC-002, DEC-003, DEC-004, DEC-005, DEC-006, DEC-007]
 ---
 
 # Setting Foundations — Antediluvian
@@ -39,17 +39,25 @@ Cain-associated cities and their civilizations are a major worldbuilding opportu
 
 **Important source distinction:** Genesis 4:17 mentions Cain building a city; a network of technologically advanced Cainite metropolises is a *setting-development expansion*, not something that verse explicitly establishes. Even where the fictional world adopts such cities, do not label their scale, devices or social order as archaeologically verified. Keep extraordinary capabilities constrained by costs, institutions, dependencies and consequences rather than granting arbitrary modern technologies.
 
+## An alternative path to greatness (DEC-007)
+
+Antediluvian sophistication should not resemble a typical technological progression into modern industrial civilization. **Do not default to firearms, jet planes, modern factories or today's machinery** as the signs that a great city is advanced. Its astonishing abilities may follow radically different paths: **sorcery, ritual or esoteric knowledge, engineered resonance and sound, proposed acoustic levitation, monumental architecture, materials and astronomical understanding, and interventions by supernatural powers**.
+
+These examples are **promising directions, not a fixed inventory of working machines or magic systems**. Popular lost-civilization and alternative-archaeology discussions (including ones encountered through Joe Rogan's podcast) express the desired imaginative direction but are **not primary ancient testimony or independent historical evidence**. In particular, claims that ancient people levitated megaliths with sound require their own evidentiary audit; their use in this fantasy world would be an explicit invention or synthesis until otherwise documented.
+
+When designing any extraordinary capability, determine who knows it, who controls it, what it requires or costs, and what it means for the people laboring, trading, worshiping and living under such powers. Different polities may advance in different domains.
+
 ## Still undecided
 
 - Exact date and geography.
 - Which specific Watcher, giant and demon traditions become true in-world.
-- How advanced particular Cain-associated cities are and whether other urban cultures rival them.
+- Which specific alternative technologies or supernatural arts function, how they work, and how advanced particular Cain-associated cities are relative to rival cultures.
 - Detailed cultures, institutions and social orders.
 - Specific syntheses of Mesopotamian or wider mythic traditions.
 - Rules system and campaign-scale conventions.
 
 ## Provenance
 
-Author confirmation recorded in [development/DECISION-LOG.md](../development/DECISION-LOG.md), decisions DEC-001 through DEC-006. Additional propositions must go through the normal research and decision process.
+Author confirmation recorded in [development/DECISION-LOG.md](../development/DECISION-LOG.md), decisions DEC-001 through DEC-007. Additional propositions must go through the normal research and decision process.
 
 **Visibility note:** This file's visibility metadata is intended for possible *future export* and does not restrict access to this public GitHub repository.

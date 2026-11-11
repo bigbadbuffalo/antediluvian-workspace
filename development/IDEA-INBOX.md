@@ -11,6 +11,8 @@
 - **IDEA:** Investigate the scholarly reception of possible Apkallu/Watchers parallels without declaring them identical as a shortcut.
 - **IDEA:** Modern alternative history can generate striking but source-labeled inventions after source verification; individual claims remain undecided.
 - **IDEA:** Cainite great cities may be unequal in sophistication: engineering, urban density, metallurgy, esoteric arts, monumental architecture and social control could develop at different rates. No particular technological package has been adopted.
+- **Adopted design direction (DEC-007):** Antediluvian high civilization is not modern industrial civilization. Sorcery, acoustics/resonance and acoustic levitation are evocative **candidate** domains, not fixed devices or established archaeological facts.
+- **IDEA:** Monumental buildings assembled through ritualized resonance, sound-trained artisan orders, specialist materials, astronomical orientation, and knowledge monopolies could distinguish cities; none of these systems or effects are presently confirmed setting canon.
 
 ## Capture template
 

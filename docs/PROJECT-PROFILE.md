@@ -8,7 +8,7 @@
 - **Primary subject:** People: human cities, families, crafts, institutions, politics, cultures, ambitions, moral choices and adventures. Supernatural beings are real design concerns but are *context and forces* affecting people's lives, not the sole object of play.
 - **Era:** The **mature age of the Nephilim**, after civilizations have had time to develop. Exact chronology, social roles, and geography are open.
 - **Flood:** Part of the biblical frame and possible thematic foreshadowing; **not the central campaign premise** or default narrative countdown.
-- **Civilizational range:** Ambitious, sophisticated and possibly extraordinary Cain-associated cities are important to explore; the actual technological, magical, and economic baseline is not decided.
+- **Civilizational range:** Cain-associated great cities may be extraordinarily advanced **along an alternative trajectory**, not toward firearms, aircraft, industrial factories or familiar modern technology. Sorcery and acoustic/resonant feats such as levitation are desired research/worldbuilding avenues, not settled historical claims or fully specified in-world systems. Exact capabilities, economics, power sources, specialists, constraints and consequences remain open.
 - **Mythic reach:** Ancient Near Eastern traditions are desired for intentional synthesis; other attested traditions may be investigated later. Do not confuse mythical similarity with demonstrable historical connection.
 - **Creative license:** Modern Christian conspiracy and alternative-history themes can inform fictional discoveries and extraordinary cities, provided they remain distinguished from ancient evidence.
 - **Worldview (working):** God is real, sovereign, just, and good, not a default fantasy antagonist.
@@ -26,7 +26,7 @@ Avoid declaring extrabiblical writings canonical scripture for all traditions. A
 - Detailed nature, roles and distribution of Watchers, Nephilim, giants and demons; their narrative presence has been approved at the broad era level, but not their mechanics or ontology.
 - Which details from Enoch, Jubilees, Mesopotamia and other traditions actually occur in-world.
 - Map and cosmology: literal, mythic, reconstructed or invented.
-- The specific capabilities, technologies, powers and limitations of Cain-associated great cities and other polities.
+- The specific alternative capabilities, technologies, sorceries, resonant/acoustic mechanisms, powers and limitations of Cain-associated great cities and other polities.
 - Campaign model, play scale and rules engine.
 - Whether the repository becomes private before spoiler-heavy work.
 
