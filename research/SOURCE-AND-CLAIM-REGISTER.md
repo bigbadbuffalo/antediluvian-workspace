@@ -82,9 +82,31 @@ All new claims refer to [the Pass 2A claim dossiers](pass-02/CLAIMS.md), inherit
 | [CLAIM-067](pass-02/CLAIMS.md#claim-067--4q202-offers-another-partial-aramaic-witness) | 4Q202 offers another partial Aramaic witness | SRC-021, SRC-022, SRC-025 | SCHOLARLY | Partial apparatus | UNDECIDED |
 | [CLAIM-068](pass-02/CLAIMS.md#claim-068--shemihazah-and-asael-traditions-may-reflect-layered-composition) | Shemihazah and Asael traditions may reflect layered composition | SRC-023, SRC-026 | SCHOLARLY | Partial apparatus | UNDECIDED |
 
+## Pass 2B–2D — Giants, Jubilees and Genesis Apocryphon (CLAIM-069–083)
+
+Passage-level entries in [Pass 2B–2D claims](pass-02/CLAIMS-2B-2D.md). All remain UNDECIDED.
+
+| Claim | Proposition | Evidence | Category | Limitations | Setting |
+| --- | --- | --- | --- | --- | --- |
+| [CLAIM-069](pass-02/CLAIMS-2B-2D.md#claim-069--qumran-and-manichaean-book-of-giants-are-distinct-transmissions) | Qumran and Manichaean Book of Giants are distinct transmissions | SRC-027, SRC-028 | SCHOLARLY | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-070](pass-02/CLAIMS-2B-2D.md#claim-070--gilgamesh-and-other-named-giants-occur-in-the-aramaic-giants-dossier) | Gilgamesh and other named giants occur in the Aramaic Giants dossier | SRC-027, SRC-033 | TEXT (via edited scholarly synopsis) | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-071](pass-02/CLAIMS-2B-2D.md#claim-071--a-giant-dreams-of-a-watered-garden-destroyed) | A giant dreams of a watered garden destroyed | SRC-027 | TEXT (fragmentary reconstruction) | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-072](pass-02/CLAIMS-2B-2D.md#claim-072--a-second-giant-dream-describes-divine-judgment-and-opened-books) | A second giant dream describes divine judgment and opened books | SRC-027 | TEXT (fragmentary reconstruction) | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-073](pass-02/CLAIMS-2B-2D.md#claim-073--enoch-is-approached-as-an-interpreter-of-giant-dreams) | Enoch is approached as an interpreter of giant dreams | SRC-027, SRC-033 | TEXT (fragmentary reconstruction) | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-074](pass-02/CLAIMS-2B-2D.md#claim-074--gilgameshs-name-supplies-an-ancient-cross-cultural-parallel) | Gilgamesh's name supplies an ancient cross-cultural parallel | SRC-027 | SCHOLARLY | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-075](pass-02/CLAIMS-2B-2D.md#claim-075--manichaean-giant-episodes-cannot-be-presumed-present-in-qumran-originals) | Manichaean giant episodes cannot be presumed present in Qumran originals | SRC-027 | SCHOLARLY | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-076](pass-02/CLAIMS-2B-2D.md#claim-076--jubilees-names-cains-wife-and-explicitly-retells-his-founding-of-a-city) | Jubilees names Cain's wife and explicitly retells his founding of a city | SRC-030 | TEXT | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-077](pass-02/CLAIMS-2B-2D.md#claim-077--jubilees-gives-watchers-an-initial-benevolent-teaching-mission) | Jubilees gives Watchers an initial benevolent teaching mission | SRC-030 | TEXT | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-078](pass-02/CLAIMS-2B-2D.md#claim-078--jubilees-assigns-enoch-human-writing-and-astronomical-record-keeping) | Jubilees assigns Enoch human writing and astronomical record keeping | SRC-030 | TEXT | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-079](pass-02/CLAIMS-2B-2D.md#claim-079--jubilees-separately-narrates-angel-human-unions-and-giant-offspring) | Jubilees separately narrates angel-human unions and giant offspring | SRC-030 | TEXT | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-080](pass-02/CLAIMS-2B-2D.md#claim-080--jubilees-locates-mastema-and-demonic-illnesses-in-post-flood-generations) | Jubilees locates Mastema and demonic illnesses in post-Flood generations | SRC-030 | TEXT | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-081](pass-02/CLAIMS-2B-2D.md#claim-081--genesis-apocryphon-portrays-lamech-suspecting-watcher-paternity) | Genesis Apocryphon portrays Lamech suspecting Watcher paternity | SRC-032 | TEXT (restricted excerpt) | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-082](pass-02/CLAIMS-2B-2D.md#claim-082--genesis-apocryphons-batenosh-rejects-the-suspicious-inference) | Genesis Apocryphon's Batenosh rejects the suspicious inference | SRC-032 | TEXT (excerpt + editorial summary) | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+| [CLAIM-083](pass-02/CLAIMS-2B-2D.md#claim-083--the-two-lamechs-in-genesis-should-not-be-conflated) | The two Lamechs in Genesis should not be conflated | SRC-001, SRC-030, SRC-032 | TEXT / SOURCE DISTINCTION | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
+
 ## Allocation and continuity
 
-Next available: **CLAIM-069**. SRC-027 next. Do not renumber established claims when correcting them. Supersede an assertion explicitly and retain its provenance. Next research package: [Dive 002 source collation and Book of Giants](../development/dives/002-enochic-traditions/01-research.md).
+Next available: **CLAIM-084**. SRC-034 next. Do not renumber established claims when correcting them. Supersede an assertion explicitly and retain its provenance. Next research package: [Dive 002 source collation and Book of Giants](../development/dives/002-enochic-traditions/01-research.md).
 
 The original schema remains below for new entries. Compact entries can inherit shared fields only when that inheritance is explicit and the linked profile contains them.
 

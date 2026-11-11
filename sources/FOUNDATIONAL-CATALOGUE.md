@@ -202,3 +202,43 @@ Records follow SOURCE-ENTRY-TEMPLATE fields. Bibliographic metadata, textual acc
 - **References:** Annette Yoshiko Reed, “Heavenly Ascent, Angelic Descent, and the Transmission of Knowledge in 1 Enoch 6–16,” in Boustan and Reed (eds.), *Heavenly Realms and Earthly Realities in Late Antique Religions* (Cambridge UP, 2004), pp. 47–66; [accessible author/shared excerpt](https://www.academia.edu/41260314/Annette_Y_Reed_Heavenly_Ascent_Angelic_Descent_and_the_Transmission_of_Knowledge_in_1_Enoch_6_16_in_Ra_anan_S_Boustan_and_Annette_Y_Reed_eds_Heavenly_Realms_and_Earthly_Realities_in_Late_Antique_Religions_Cambridge_Cambridge_University_Press_2004_47_66). George W. E. Nickelsburg and James C. VanderKam, *1 Enoch: The Hermeneia Translation* (Fortress, 2012), [publisher/reader preview](https://biblia.com/api/plugins/embeddedpreview?resourceName=LLS%3AHRMNEIA1ENOCH).
 - **Checked:** Reed excerpt discusses possible Shemihazah/Asael literary strands and reminds that the teaching motif spans both; Nickelsburg/VanderKam preview verifies bibliographic/translation framework and selected passages, NOT complete text.
 - **Limits:** The separation into originally independent strands is a scholarly **model**, not an explicit ancient assertion or unanimous solution. Full contemporary critical collation remains to be done.
+
+
+## SRC-027 — Davila 2025 Book of Giants introduction
+- **Status:** READ, authorized excerpt of modern scholarly synthesis, NOT full translation of Aramaic text or other sections of the book.
+- **Source:** James R. Davila, “The Book of Giants: General Introduction,” in James R. Davila and Richard Bauckham (eds.), *Old Testament Pseudepigrapha: More Noncanonical Scriptures*, vol. 2 (Eerdmans, 2025), pp. 39–58, [publisher-associated excerpt](https://bibleinterp.arizona.edu/sites/bibleinterp.arizona.edu/files/2025-04/Davila-BauckhamExcerptGiants_0.pdf).
+- **What the excerpt actually supports:** A reconstructed ordering of *separately surviving* Qumran Aramaic and later Manichaean passages; names and dream motifs from 4Q530; genuine Gilgamesh echoes but no surviving direct retelling of the Mesopotamian epic. Introduction explicitly separates the versions and questions whether later-only episodes belonged to the original Aramaic narrative.
+- **Constraints:** The A/M numbered sections are **editorial reconstruction**, not chapter numbers in an intact ancient copy. Quotation limits apply; paraphrase with exact fragment IDs. The excerpt does not stand in for Stuckenbruck's full section at pp. 59 onward.
+
+## SRC-028 — Israel Antiquities Authority Book of Giants manuscript records
+- **Status:** VERIFIED collection and descriptive metadata; image palaeography/transliteration NOT independently audited.
+- **Witnesses:** [4Q203 4QEnGiants a](https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q203-1?locale=en_US) Aramaic parchment, catalogued script period Herodian; [4Q531 4QEnGiants c](https://www.deadseascrolls.org.il/explore-the-archive/manuscript/4Q531-1?locale=en_US) Aramaic parchment, Hasmonean. Qumran Cave 4. Find details and critical edition references via IAA archives.
+- **Limits:** Hasmonean/Herodian are scribal labels of copies, not the date of the mythic events. IAA images alone do not justify a supplied English translation. Need check 4Q530, 4Q532–533 and Cave 1/2/6 specimens separately.
+
+## SRC-029 — Comprehensive Aramaic Lexicon Book of Giants bibliographic control
+- **Status:** READ institutional source metadata, not source-text translation.
+- **Access:** [CAL entry](https://cal.huc.edu/get_file_info.php?coord=44408203); cites official editio princeps by Émile Puech, *Discoveries in the Judaean Desert* XXXI, and Stuckenbruck's *The Book of Giants from Qumran* (1997).
+- **Use:** Track complicated Qumran publishing and fragment attribution; do not assume quoted English reconstruction is verifiable from the CAL bibliographic page alone.
+
+## SRC-030 — Jubilees public-domain English presentation
+- **Status:** READ selected passages: Jubilees 4:9, 4:15–23; 5:1–11; 7:20–24; 10:1–14. Modern full manuscript comparison NOT performed.
+- **Access:** [Ad Fontes Library full English text](https://adfonteslibrary.org/work-st-pseudepigrapha-jubilees), a hosted English rendering corresponding to older R. H. Charles translation tradition. Distinguish site's editorial chapter headings/bracketed chronologies from the ancient text and determine exact underlying edition in deeper collation.
+- **Textual finding:** Jub. 4:15 assigns Watchers an initial mission to instruct people in uprightness and judgment; 4:17–23 assigns Enoch early writing/astronomical testimony; 5 describes angel-human unions and giant offspring. Jub. 10's demon-binding, Mastema and healing-medical instructions concern *Noah's descendants after the Flood*, not the default antediluvian era.
+- **Witness limits:** Hebrew fragments at Qumran, later complete Ethiopic; Greek, Latin and other material require their own verification. Do not synchronize the book's schematic chronology automatically with biblical Masoretic or Greek ages.
+
+## SRC-031 — Scholarly Jubilees manuscript and composition controls
+- **Status:** Publisher introductory excerpt and journal abstract checked, not critical text collated.
+- **References:** [Brill publisher introduction](https://brill.com/display/book/9789047405115/front-4.pdf), which describes second-century BCE composition proposals and fragmentary Hebrew Qumran manuscripts; Matthew P. Monger, “The Many Forms of Jubilees: A Reassessment of the Manuscript Evidence from Qumran and the Lines of Transmission of the Parts and Whole of Jubilees,” *Revue de Qumran* 30.2 (2018): 191–211, [abstract/DOI](https://doi.org/10.2143/RQ.30.2.3285631).
+- **Caution:** The manuscript count and textual extent vary by catalogue/classification; do not present one count as universally agreed. A Qumran Hebrew witness does not prove every surviving Ethiopic sentence was already in that copy. Both composition and later textual growth remain debated.
+
+## SRC-032 — Posen Library Genesis Apocryphon column II
+- **Status:** READ limited visible translated clauses and scholarly editorial summaries; **full primary translation restricted**.
+- **Loci:** [1Q20 / Genesis Apocryphon II.1–18](https://www.posenlibrary.com/entry/conception-noah) and [II.8–18](https://www.posenlibrary.com/entry/batenosh-genesis-apocryphon), curated by the Posen Library.
+- **Evidence:** Lamech suspects his wife's conception is connected to Watchers; Batenosh insists the child is his. This is a **character's suspicion and rebuttal**, not a textual assertion that Noah is biologically a Nephilim or that ancient people did genetic engineering.
+- **Limitations:** The Posen site's displayed English text is truncated behind registration. Date range displayed for *tradition* is 3rd–1st c. BCE; date of 1Q20 parchment requires separate palaeographic evidence. Do not conflate Lamech in Seth/Noah's line with the earlier Cainite Lamech in Genesis 4.
+
+## SRC-033 — Machiela 2023 Aramaic scrolls, relevant later-source metadata
+- **Status:** Manuscript inventory and selected summaries checked; the 2023 handbook full profiles and transcriptions not completely inspected in this pass.
+- **Edition:** Daniel A. Machiela, *A Handbook of the Aramaic Scrolls from the Qumran Caves* (Brill, 2023), [open access](https://brill.com/display/book/9789004513815/9789004513815_webready_content_text.pdf).
+- **Use:** Source census: Book of Giants 1Q23–24, 2Q26, 4Q203, 4Q530–533, 6Q8; Genesis Apocryphon 1Q20 and related separate Birth of Noah texts 4Q534–536. Do not merge documents with similar characters without arguing textual relationship.
+- **Limitations:** Specific translations, alternate fragment numbers, palaeographic and radiocarbon ranges still demand detailed profile verification.

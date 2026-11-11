@@ -5,9 +5,9 @@
 | Dive | Subject | Stage | Last updated | Decisions | Next action |
 | --- | --- | --- | --- | --- | --- |
 | [001 — Biblical humanity](dives/001-biblical-humanity/01-research.md) | Cain, early occupations, households, cities, longevity and textual limits | RESEARCH COMPLETE / creative review deferred under PROC-004 | 2026-11-10 | No new lore decisions; DEC-001–007 govern | Do not force workshop choices; later source passes may complicate proposals |
-| [002 — Enochic traditions](dives/002-enochic-traditions/00-scope.md) | Book of Watchers and further Enochic ancient witnesses | RESEARCH IN PROGRESS — Pass 2A source/text baseline | 2026-11-10 | No new lore decisions | Continue witness collation, then Book of Giants, Jubilees and Genesis Apocryphon |
+| [002 — Enochic traditions](dives/002-enochic-traditions/00-scope.md) | Book of Watchers and further Enochic ancient witnesses | RESEARCH IN PROGRESS — Pass 2A source/text baseline | 2026-11-10 | No new lore decisions | Pass 2A–D initial source readings saved; finish witness apparatus and more ancient texts |
 
-**Source-first directive:** PROC-004 defers optional author creative choices until a broad documentary survey is complete. Dive 002 is opened for research only; no invented lore has been approved. Next unused identifiers after the first bounded Pass 2A package are SRC-027 and CLAIM-069. Read the [source coverage map](../research/SOURCE-COVERAGE-MAP.md) for the remaining documentary queue.
+**Source-first directive:** PROC-004 defers optional author creative choices until a broad documentary survey is complete. Dive 002 is opened for research only; no invented lore has been approved. Next unused identifiers after Pass 2B–D are SRC-034 and CLAIM-084. Read the [source coverage map](../research/SOURCE-COVERAGE-MAP.md) for the remaining documentary queue.
 
 ## Naming
 

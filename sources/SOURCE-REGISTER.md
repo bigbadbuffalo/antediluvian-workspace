@@ -1,6 +1,6 @@
 # Primary and Secondary Source Register
 
-**Updated 2026-11-10:** Pass 1 retains SRC-001–019. Pass 2A adds SRC-020–026, distinguishing an accessed public-domain English primary presentation, manuscript catalogues, and scholarly excerpts/abstracts from full critical editions not actually read. These are research witnesses, not setting canon.
+**Updated 2026-11-10:** Pass 1 retains SRC-001–019. Passes 2A–2B add SRC-020–033, distinguishing an accessed public-domain English primary presentation, manuscript catalogues, and scholarly excerpts/abstracts from full critical editions not actually read. These are research witnesses, not setting canon.
 
 Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
 
@@ -33,6 +33,14 @@ Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). 
 | [SRC-024](FOUNDATIONAL-CATALOGUE.md#src-024--online-critical-pseudepigrapha) | Online Critical Pseudepigrapha, 1 Enoch digital edition | Coverage statement checked; parallel source-data access limited; incomplete Aramaic corpus |
 | [SRC-025](FOUNDATIONAL-CATALOGUE.md#src-025--qumran-digital-and-loc-witness-viewers) | 4Q201 and 4Q202 digital transcriptions; Library of Congress Enoch exhibit | Selected transcription lines and holding metadata checked, no original-paleography audit |
 | [SRC-026](FOUNDATIONAL-CATALOGUE.md#src-026--reed-and-nickelsburg-vanderkam) | Reed (2004) and Nickelsburg/VanderKam (2012) interpretive/translation leads | Reed excerpt and translation preface/preview checked; full critical editions not read |
+
+| [SRC-027](FOUNDATIONAL-CATALOGUE.md#src-027--davila-2025-book-of-giants-introduction) | Davila, The Book of Giants: General Introduction (2025) | Publisher excerpt of scholarly synthesis READ; reconstructed narrative is not complete ancient text |
+| [SRC-028](FOUNDATIONAL-CATALOGUE.md#src-028--israel-antiquities-authority-book-of-giants-manuscript-records) | Israel Antiquities Authority, Book of Giants manuscripts 4Q203 and 4Q531 | Original holding/manuscript catalogue metadata READ; inscription images not independently transcribed |
+| [SRC-029](FOUNDATIONAL-CATALOGUE.md#src-029--comprehensive-aramaic-lexicon-book-of-giants-bibliographic-control) | Comprehensive Aramaic Lexicon, Book of Giants records | Institutional text/bibliography metadata READ; underlying DJD critical apparatus still pending |
+| [SRC-030](FOUNDATIONAL-CATALOGUE.md#src-030--jubilees-public-domain-english-presentation) | Jubilees chapters 4, 5, 7, 10, Charles English presentation | Selected primary English text READ; Hebrew Qumran witness collation pending |
+| [SRC-031](FOUNDATIONAL-CATALOGUE.md#src-031--scholarly-jubilees-manuscript-and-composition-controls) | Jubilees scholarship: textual witnesses and growth | Publisher article intro plus journal abstract CHECKED; full scholarship not read |
+| [SRC-032](FOUNDATIONAL-CATALOGUE.md#src-032--posen-library-genesis-apocryphon-column-ii) | Posen Library, Genesis Apocryphon 1Q20 II | Small translated excerpt and source commentary READ; full column restricted |
+| [SRC-033](FOUNDATIONAL-CATALOGUE.md#src-033--machiela-2023-aramaic-scrolls-relevant-later-source-metadata) | Machiela, Aramaic scrolls: Book of Giants and Genesis Apocryphon metadata | Selected institutional excerpt profiles checked; full physical/critical collation pending |
 
 ## Scope of the foundational bibliography
 

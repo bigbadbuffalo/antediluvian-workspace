@@ -28,7 +28,7 @@ Only Dives 001 and 002 are opened, and Dive 002 is a source-reading pass. Other 
 
 ## Exact next package
 
-Pass 2A primary-text baseline is recorded in [Book of Watchers dossier](pass-02/BOOK-OF-WATCHERS-6-16.md), with source IDs SRC-020–026 and claim IDs CLAIM-045–068. **Next:** collate actual surviving Aramaic/Greek readings against a modern scholarly edition; do not count edition previews as complete review. Continue separately with Book of Giants (SRC-013), Jubilees (SRC-014) and Genesis Apocryphon (SRC-015). Then complete historical Near Eastern and wider-source map before any major setting choices. Next free SRC-027 / CLAIM-069. Deferred technical R1 tasks remain open.
+Pass 2A English Book of Watchers chapters 1–16, with selected witness controls: [dossier](pass-02/BOOK-OF-WATCHERS-6-16.md), CLAIM-045–068. Pass 2B–D first selective surveys: [Book of Giants, Jubilees, Genesis Apocryphon dossier](pass-02/GIANTS-JUBILEES-GENESIS-APOCRYPHON.md), CLAIM-069–083. **Next:** fully collate Aramaic/Greek/Ge'ez witnesses and editions; read 1 Enoch 17–36, Book of Giants original fragments, Jubilees Hebrew variants and complete 1Q20. Then independently investigate other ancient Jewish and Near Eastern sources before major fictional decisions. Next free SRC-034 / CLAIM-084. Deferred technical R1 work remains open.
 
 ## Research batch closeout checklist
 

@@ -20,3 +20,5 @@ Use citations and uncertainty; separate direct textual testimony, interpretation
 
 - [SOURCE-COVERAGE-MAP.md](SOURCE-COVERAGE-MAP.md): source-first breadth map, coverage states and completion criteria.
 - [pass-02/BOOK-OF-WATCHERS-6-16.md](pass-02/BOOK-OF-WATCHERS-6-16.md): Enochic primary reading and witness audit, research-only.
+
+- [pass-02/GIANTS-JUBILEES-GENESIS-APOCRYPHON.md](pass-02/GIANTS-JUBILEES-GENESIS-APOCRYPHON.md): initial source survey of three related corpora (not full critical collation).

@@ -16,6 +16,12 @@ updated: 2026-11-10
 
 Selected English primary text read; witness history, selected Qumran edited transcriptions and scholarly summaries checked, **not** a complete Aramaic/Greek/Ge'ez collation. Do not claim all parts of the Book of Watchers, much less all Enoch literature, have been exhaustively studied.
 
+## Next bounded survey: Pass 2B–D recorded
+
+- [Selected Book of Giants, Jubilees, Genesis Apocryphon survey](../../../research/pass-02/GIANTS-JUBILEES-GENESIS-APOCRYPHON.md)
+- [CLAIM-069–083](../../../research/pass-02/CLAIMS-2B-2D.md)
+- SRC-027–033 registered; only a scholarly reconstruction/selected English texts and small excerpt have been accessed. This **does not complete** the documentary editions or ancient witnesses.
+
 ## Outstanding research
 1. Validate exact Aramaic fragments/Greek and Ge'ez alternate readings in accessible modern critical editions, with restoration controls.
 2. Finish 1 Enoch 17–36 (cosmic/topographical visions) with appropriate restrictions on physical mapping.
@@ -24,6 +30,6 @@ Selected English primary text read; witness history, selected Qumran edited tran
 5. Preserve source contradictions, date ranges and human consequences as documentary observations only.
 
 ## Continuity
-Last used SRC-026, CLAIM-068; next free SRC-027, CLAIM-069. Update claim/source master indexes before changing this pointer.
+Last used SRC-033, CLAIM-083; next free SRC-034, CLAIM-084. Update claim/source master indexes before changing this pointer.
 
 No player wiki; repository public. No secret lore or proprietary edition scans committed.
