@@ -179,10 +179,10 @@ Records follow SOURCE-ENTRY-TEMPLATE fields. Bibliographic metadata, textual acc
 - **Limitations:** A summary cannot replace the edition's critical apparatus or primary image collation.
 
 ## SRC-023 — Bhayro text-critical study
-- **Classification:** SCHOLARLY research; **ABSTRACT VERIFIED, full thesis not read**.
+- **Classification:** SCHOLARLY research; **SELECTED FULL-THESIS SECTIONS VERIFIED in Pass 4**.
 - **Edition:** Siam Bhayro, *A Text-Critical and Literary Analysis of 1 Enoch 6–11*, PhD thesis, University College London, 2000. [Institutional repository](https://discovery.ucl.ac.uk/id/eprint/10057768/).
 - **Abstract findings:** Discusses Shemihazah and Asael traditions and identifies witnesses including Ethiopic, Greek Codex Panopolitanus, Syncellus excerpts, Syriac and Karshuni, and Qumran Aramaic fragments.
-- **Limits:** Do not attribute conclusions about individual variants or detailed redaction solely to an unread thesis abstract.
+- **Pass 4 access:** Selected passages of the repository PDF examined, including pp. 86–89 on Syriac and Syncellus, with selected translation and textual notes in pp. 198–249 and pp. 356–357 plates 2–3. The latter reproduce Chabot’s Syriac hand-copy and derivative Karshuni text. Full thesis review and direct codex collation are outstanding. See [Pass 4 dossier](../research/pass-04/WATCHERS-WITNESS-COLLATION.md).
 
 ## SRC-024 — Online Critical Pseudepigrapha
 - **Classification:** Digital source-edition project; **coverage statement VERIFIED, not all parallel texts reviewed**.

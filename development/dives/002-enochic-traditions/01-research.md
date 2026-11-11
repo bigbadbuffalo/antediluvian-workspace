@@ -36,10 +36,14 @@ Selected English primary text read; witness history, selected Qumran edited tran
 
 The 17–36 close reading is complete in the specified Geʿez presentation. Selected ancient-language transcriptions and 11Q12's critical edition were inspected. All ten Giants manuscript groups have an edition and fragment inventory with selected readings. The Apocryphon II–V and Jubilees 3–10 received bounded readings in named editions, and the other 1 Enoch components received a witness and passage survey. The full critical collation of original manuscripts remains open.
 
+## Pass 4 — selected Watchers witness collation
+
+- [Photographs, edition comparisons and excerpt collation](../../../research/pass-04/WATCHERS-WITNESS-COLLATION.md)
+- [Source entries SRC-052–058](../../../sources/PASS-04-CATALOGUE.md)
+- [CLAIM-125–135](../../../research/pass-04/CLAIMS.md)
+
 ## Current checkpoint
 
-Last edition-level checks: **SRC-044**, 4Q206 and 4Q205 at 1 Enoch 22, and **SRC-051**, 4Q206 frgs. 1 and 5 at 14:22 and 32:6. Hebrew 11Q12 frgs. 1–7 were checked in Qimron, SRC-043, pp. 228–229. Latest allocated IDs **SRC-051** and **CLAIM-124**. Next available **SRC-052 / CLAIM-125**.
+Last checks include the physical break at 4Q201 1 c ii.16–17 (Langlois), the bracket status of the height in published 4Q202 readings, the two overlapping Greek excerpts and the later spirits excerpt (Black transcription), and the Syriac Enoch quotation in Chabot's Chronicle edition (French I pp. 7–8 and reproduced Syriac hand-copy). **Last allocated SRC-058 and CLAIM-135. Next available SRC-059 / CLAIM-136.**
 
-Begin the next source batch at **SRC-049, Drawnel 2019**, 4Q201 frg. 3 ii.15–17 (Milik 1 iii) for 1 Enoch 7:2, then its exact alignment with 4Q202 and the image of the end of the birth line. Consult Greek Black and both Syncellus excerpts in parallel if the Aramaic edition is still unavailable. See [audit](04-audit.md) for the next material issue in each dossier.
-
-Dive 002 remains **RESEARCH** under PROC-004. No setting decision, canon integration or workshop was opened. Repository public.
+Begin AF-02 at **4Q206 frg. 2 ii, 1 En. 22:3–7**, Drawnel pp. 351–356 as reproduced by Abate (SRC-044) p. 55. Continue with 4Q205 frgs. 1–2 at 22:13–14 and Drawnel's placement of the 4Q202 material. The [audit](04-audit.md) records remaining AF-01 access and exact targets for the rest of the corpus. Dive 002 remains **RESEARCH** under PROC-004.

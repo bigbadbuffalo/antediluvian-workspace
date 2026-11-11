@@ -17,7 +17,7 @@
 | --- | --- | --- |
 | Hebrew Bible primeval narrative | Genesis 1–11, Job, Psalms, selected prophetic texts | Genesis Pass 1 READ; critical Hebrew/Samaritan/Greek fragment apparatus LIMITED |
 | Biblical Christian reception | Jude, 2 Peter, 1 Peter, Hebrews, Matthew, selected NT texts | Selected Pass 1 READ; full angel/giant reception NOT COMPLETE |
-| 1 Enoch Book of Watchers | 1 Enoch 1–36, Qumran 4Q201–206, Greek Akhmim/Syncellus, Ge'ez | 1–16 READ; selected 6–16 edited witnesses checked, 17–36 continuous reading and Greek comparisons completed. Aramaic journey fragments indexed, selected edited 4Q205/206 material checked, full collation pending. [Dossier](pass-03/BOOK-OF-WATCHERS.md) |
+| 1 Enoch Book of Watchers | 1 Enoch 1–36, Qumran 4Q201–206, Greek Akhmim/Syncellus, Ge'ez | 1–16 READ; selected 6–16 edited witnesses checked, 17–36 continuous reading and Greek comparisons completed. Aramaic journey fragments indexed, selected edited 4Q205/206 material checked, full collation pending. [Pass 3 dossier](pass-03/BOOK-OF-WATCHERS.md) and [Pass 4 collation](pass-04/WATCHERS-WITNESS-COLLATION.md) |
 | Other 1 Enoch components | Book of Luminaries 72–82, Dream Visions 83–90, Epistle 91–108, Parables 37–71 | Selected passages READ and component witnesses inventoried. No secure Qumran Parables witness; chronological limits in [report](pass-03/ENOCHIC-COVERAGE.md) |
 | Book of Giants | 1Q23–24, 2Q26, 4Q203, 4Q530–533, 6Q8; later Manichaean transmissions | Ten groups indexed using Marro; selected Aramaic/Middle Persian/Sogdian/Old Uyghur edited text checked; joins and smaller scraps pending. [Dossier](pass-03/BOOK-OF-GIANTS.md) |
 | Jubilees | Chapters 3–10 and related episodes | Chapters 3–10 READ in VanderKam; selected 11Q12 edition checked. 4:15 mission wording has no Hebrew control identified. [Dossier](pass-03/JUBILEES.md) |
@@ -28,7 +28,7 @@
 | Levantine/Anatolian | Ugaritic divine council, Rephaim (rpum) materials; selected Hurrian/Hittite/West Semitic primeval narratives | DISCOVERED; relevance and dates not assumed |
 | Egyptian and wider ancient traditions | Egyptian creation/cosmology traditions and non-ANE comparanda only with attributable historical witnesses | DISCOVERED; avoid anachronistic monolithic “prehistoric religion” claims |
 | Jewish historical reception | Josephus, Philo, rabbinic midrash and Targumim, later Jewish mysticism | Josephus Pass 1 LIMITED; systematic mapping NOT STARTED |
-| Christian reception | Justin, Athenagoras, Irenaeus, Tertullian, Lactantius, Augustine, later Syriac/Greek/Latin commentaries | DISCOVERED; date and locate interpretations independently |
+| Christian reception | Justin, Athenagoras, Irenaeus, Tertullian, Lactantius, Augustine, later Syriac/Greek/Latin commentaries | Michael the Syrian I.3–4 checked in selected editions and scholarship; further witnesses DISCOVERED |
 | Other historical reception | Manichaean Enoch/Giants transmission; later Islamic Adam/Idris/Hārūt-Mārūt analogues only with sources and chronology | Selected Manichaean Giants witnesses checked in edited form. Other reception remains inventoried. |
 | Modern speculation | Lost cities, acoustic levitation, Atlantis, chimeras, conspiracy motifs | **DEFERRED** until authentic historical/mythological-source coverage; provenance audit afterward |
 | Modern fiction | World of Darkness and related media | Quarantine only; no evidence authority |
@@ -40,4 +40,5 @@ A future claim that “we have surveyed the ancient relevant sources” must inc
 Do **not** open a collective creative DECIDE round or select fictional harmonizations until the author sees this coverage status and chooses to move from discovery to synthesis. No need for recurrent approval to continue ordinary source reading.
 
 ## Current checkpoint
-Pass 3 bounded reading and witness review recorded. SRC-001–051 and CLAIM-001–124 registered. Continue Drawnel 2019 4Q201 frg. 3 ii.15–17 and 4Q202 parallel at 1 Enoch 7:2. Source-by-source open issues appear in the [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md). Broad ancient-source coverage is still in progress.
+
+Pass 4 checked the 4Q201 birth-line photographs, published 4Q202 restorations, and selected Greek and Syriac witness readings. See the [collation](pass-04/WATCHERS-WITNESS-COLLATION.md). SRC-001–058 and CLAIM-001–135 are registered. Resume AF-02 at 4Q206 frg. 2 ii (1 En. 22:3–7), 4Q205 frgs. 1–2 (22:13–14), and Drawnel's 4Q202 chapter 22 placement. Open issues by source family appear in the [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md).

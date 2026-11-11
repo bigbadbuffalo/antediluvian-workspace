@@ -155,26 +155,20 @@ The [Watchers claims](pass-03/CLAIMS-WATCHERS.md) and [comparative claims](pass-
 
 ## Allocation and continuity
 
-Next available: **CLAIM-125**. SRC-052 next. Do not renumber established claims when correcting them. Supersede an assertion explicitly and retain its provenance. Next source-critical package: [Dive 002 audit and continuation](../development/dives/002-enochic-traditions/04-audit.md).
+## Pass 4 — Watchers collation (CLAIM-125–135)
 
-The original schema remains below for new entries. Compact entries can inherit shared fields only when that inheritance is explicit and the linked profile contains them.
+| ID | Claim | Source(s) | Evidence class | Verification | Setting |
+| --- | --- | --- | --- | --- | --- |
+| [CLAIM-125](pass-04/CLAIMS.md#claim-125--the-4q201-birth-verb-runs-into-a-physical-break) | The 4Q201 birth verb runs into a physical break | SRC-052, SRC-058 | VARIANT | VERIFIED selected photographic boundaries | UNDECIDED |
+| [CLAIM-126](pass-04/CLAIMS.md#claim-126--milik-supplies-the-3000-cubit-wording-in-both-early-copies) | Milik supplies the 3000-cubit wording in both early copies | SRC-053, SRC-054 | VARIANT | VERIFIED in named presentations | UNDECIDED |
+| [CLAIM-127](pass-04/CLAIMS.md#claim-127--the-quoted-drawnel-translation-also-brackets-the-height-in-4q202) | The quoted Drawnel translation also brackets the height in 4Q202 | SRC-049, SRC-056 | VARIANT | VERIFIED quoted translation; PARTIAL edition access | UNDECIDED |
+| [CLAIM-128](pass-04/CLAIMS.md#claim-128--4q201-preserves-shemihazah-and-an-ordinal-for-asael) | 4Q201 preserves Shemihazah and an ordinal for Asael | SRC-052, SRC-055 | TEXT | VERIFIED in named presentations | UNDECIDED |
+| [CLAIM-129](pass-04/CLAIMS.md#claim-129--syncellus-gives-the-tenth-rank-to-azalzel-and-azael-in-different-clauses) | Syncellus gives the tenth rank to Azalzel and Azael in different clauses | SRC-024, SRC-052, SRC-055 | VARIANT | VERIFIED in named presentations | UNDECIDED |
+| [CLAIM-130](pass-04/CLAIMS.md#claim-130--4q202-preserves-iron-sword-wording-and-a-weaker-copper-trace) | 4Q202 preserves iron sword wording and a weaker copper trace | SRC-024, SRC-053, SRC-054, SRC-055 | VARIANT | PARTIAL Aramaic; edition comparison verified | UNDECIDED |
+| [CLAIM-131](pass-04/CLAIMS.md#claim-131--syncellus-explicitly-gives-humans-a-role-in-manufacture) | Syncellus explicitly gives humans a role in manufacture | SRC-055 | TEXT | VERIFIED in named presentations | UNDECIDED |
+| [CLAIM-132](pass-04/CLAIMS.md#claim-132--both-checked-greek-forms-portray-the-spirits-as-thirsting) | Both checked Greek forms portray the spirits as thirsting | SRC-024, SRC-036, SRC-055 | VARIANT | VERIFIED in named presentations | UNDECIDED |
+| [CLAIM-133](pass-04/CLAIMS.md#claim-133--michaels-marginal-enoch-quotation-assigns-kokabel-the-fourth-rank) | Michael's marginal Enoch quotation assigns Kokabel the fourth rank | SRC-023, SRC-034, SRC-055, SRC-057 | TEXT | VERIFIED in named presentations | UNDECIDED |
+| [CLAIM-134](pass-04/CLAIMS.md#claim-134--michaels-cain-and-seth-identifications-belong-to-the-chronicle-narrative) | Michael's Cain and Seth identifications belong to the Chronicle narrative | SRC-023, SRC-057 | RECEPTION | VERIFIED in named presentations | UNDECIDED |
+| [CLAIM-135](pass-04/CLAIMS.md#claim-135--syncellus-separates-the-orders-against-azael-and-semiazas) | Syncellus separates the orders against Azael and Semiazas | SRC-055 | TEXT | VERIFIED in named presentations | UNDECIDED |
 
-## Required entry schema
-
-### CLAIM-001 — [Concise assertion]
-
-- **Exact proposition:** (one testable/textually locatable statement)
-- **Source(s):** SRC-###, chapter/verse or fragment, edition/witness; clickable bibliographic pointer.
-- **Layer:** TEXT / VARIANT / RECEPTION / SCHOLARLY / SPECULATION / FICTION.
-- **Ancient source date vs extant witness date:**
-- **What the source explicitly says:** (carefully paraphrase; do not overclaim)
-- **Interpretive steps:** (inferences, translation decisions and later readings)
-- **Corroboration/contradiction:**
-- **Verification:** VERIFIED / PARTIAL / TO VERIFY / UNRESOLVED.
-- **Provenance and confidence:** confidence in accurate attribution, not metaphysical historicity.
-- **Potential RPG use:** IDEA only, until approved.
-- **Setting canon:** UNDECIDED / DECISION reference.
-- **Last checked:**
-
-Keep the ledger concise; link long discussions to thematic research dossiers. Never import assumptions from a modern fiction title as ancient claims.
-
+Next available: **CLAIM-136**. SRC-059 next. Earlier claims retain their IDs and provenance. See the [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md) for the continuation.

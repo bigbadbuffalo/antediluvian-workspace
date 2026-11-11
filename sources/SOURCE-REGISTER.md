@@ -2,7 +2,7 @@
 
 **Updated 2026-11-10:** Pass 1 retains SRC-001–019. Passes 2A–2D add SRC-020–033, distinguishing an accessed public-domain English primary presentation, manuscript catalogues, and scholarly excerpts/abstracts from full critical editions not actually read. These are research witnesses, not setting canon.
 
-Full annotated records: [Foundational catalogue](FOUNDATIONAL-CATALOGUE.md) and [Pass 3 catalogue](PASS-03-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
+Full annotated records: [Foundational catalogue](FOUNDATIONAL-CATALOGUE.md), [Pass 3 catalogue](PASS-03-CATALOGUE.md) and [Pass 4 catalogue](PASS-04-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
 
 | Source ID | Source / edition | Access and verification |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ Full annotated records: [Foundational catalogue](FOUNDATIONAL-CATALOGUE.md) and 
 | [SRC-020](FOUNDATIONAL-CATALOGUE.md#src-020--charles-1917-public-domain-english-enoch) | Charles, The Book of Enoch (1917), 1 Enoch 1–16 | Primary English presentation VERIFIED for chapters 1–16; not a new critical apparatus |
 | [SRC-021](FOUNDATIONAL-CATALOGUE.md#src-021--machiela-2023-aramaic-manuscript-handbook) | Machiela, A Handbook of the Aramaic Scrolls from the Qumran Caves (2023) | Scholarly manuscript profiles checked for 4Q201/202 and inventory; full fragment collation incomplete |
 | [SRC-022](FOUNDATIONAL-CATALOGUE.md#src-022--gurtner-book-of-watchers-introduction) | Gurtner, Introducing the Pseudepigrapha (2020/2022), 1 Enoch introduction | Publisher-authorized scholarly excerpt checked; witness ranges and dates qualified |
-| [SRC-023](FOUNDATIONAL-CATALOGUE.md#src-023--bhayro-text-critical-study) | Bhayro, A Text-Critical and Literary Analysis of 1 Enoch 6–11 (2000) | University repository abstract checked; full dissertation NOT reviewed |
+| [SRC-023](FOUNDATIONAL-CATALOGUE.md#src-023--bhayro-text-critical-study) | Bhayro, A Text-Critical and Literary Analysis of 1 Enoch 6–11 (2000) | Selected full-thesis sections, transcriptions and Syriac/Karshuni plates checked in Pass 4 |
 | [SRC-024](FOUNDATIONAL-CATALOGUE.md#src-024--online-critical-pseudepigrapha) | Online Critical Pseudepigrapha, 1 Enoch digital edition | Pass 3 XML checked for selected Greek, Geʿez and Aramaic readings; Watchers Aramaic transcription stops at 8:4 |
 | [SRC-025](FOUNDATIONAL-CATALOGUE.md#src-025--qumran-digital-and-library-of-congress-witness-viewers) | 4Q201 and 4Q202 digital transcriptions; Library of Congress Enoch exhibit | Selected transcription lines and holding metadata checked, no original-paleography audit |
 | [SRC-026](FOUNDATIONAL-CATALOGUE.md#src-026--reed-and-nickelsburgvanderkam) | Reed (2004) and Nickelsburg/VanderKam (2012) interpretive/translation leads | Reed excerpt and translation preface/preview checked; full critical editions not read |
@@ -61,11 +61,23 @@ Full annotated records: [Foundational catalogue](FOUNDATIONAL-CATALOGUE.md) and 
 | [SRC-046](PASS-03-CATALOGUE.md#src-046--goff-on-gilgamesh-in-the-book-of-giants) | Goff on Gilgamesh in the Book of Giants | Abstract and position as discussed by Marro checked; full article not verified |
 | [SRC-047](PASS-03-CATALOGUE.md#src-047--peterss-enochic-chronology-and-noah-controls) | Peters's Enochic chronology and Noah controls | Enochic composition date and manuscript table consulted |
 | [SRC-048](PASS-03-CATALOGUE.md#src-048--hermeneia-volume-2-on-parables-and-luminaries) | Hermeneia volume 2 on Parables and Luminaries | Publisher-platform synopsis checked; full commentary and text apparatus queued |
-| [SRC-049](PASS-03-CATALOGUE.md#src-049--drawnels-cave-4-aramaic-enoch-edition) | Drawnel's Cave 4 Aramaic Enoch edition | Edition and contents verified; full pages and plates queued |
+| [SRC-049](PASS-03-CATALOGUE.md#src-049--drawnels-cave-4-aramaic-enoch-edition) | Drawnel's Cave 4 Aramaic Enoch edition | Edition and contents verified; selected translation quoted in SRC-056; full pages and plates queued |
 | [SRC-050](PASS-03-CATALOGUE.md#src-050--puechs-djd-aramaic-and-giants-edition) | Puech's DJD Aramaic and Giants edition | Bibliographic and derivative readings checked; official volume plates and apparatus queued |
 | [SRC-051](PASS-03-CATALOGUE.md#src-051--jacobus-on-akhmim-and-qumran-scribal-practice) | Jacobus on Akhmim and Qumran scribal practice | Selected passage transcriptions and scholarly argument checked |
 
-Next available **SRC-052**.
+## Pass 4 — Watchers collation
+
+| ID | Source | Verification |
+| --- | --- | --- |
+| [SRC-052](PASS-04-CATALOGUE.md#src-052--langloiss-photographic-edition-of-4q201) | Langlois, Le premier manuscrit du Livre d’Hénoch (2008) | Printed plates, line details and selected apparatus checked |
+| [SRC-053](PASS-04-CATALOGUE.md#src-053--miliks-cave-4-enoch-edition) | Milik with Black, The Books of Enoch (1976) | Selected page transcriptions and bracketed reconstructions checked |
+| [SRC-054](PASS-04-CATALOGUE.md#src-054--deaps-digital-transcriptions-of-4q201-and-4q202) | Digital Editions of Ancient Pseudepigrapha and Scrolls, 4Q201–202 | Selected bracket boundaries in 4Q201 and 4Q202 checked |
+| [SRC-055](PASS-04-CATALOGUE.md#src-055--blacks-greek-enoch-edition) | Black, Apocalypsis Henochi Graece (1970) | Selected Greek passages and both overlapping Syncellus excerpts checked via online transcription |
+| [SRC-056](PASS-04-CATALOGUE.md#src-056--orlovs-quotation-of-drawnel-on-4q202) | Orlov, Divine Mysteries in the Enochic Tradition (2023) | Author excerpt and quotation at p. 200 n. 828 checked |
+| [SRC-057](PASS-04-CATALOGUE.md#src-057--chabots-michael-the-syrian-edition) | Michael the Syrian, Chronicle, ed. and trans. Chabot | French I.4 and reproduced Syriac hand-copy checked |
+| [SRC-058](PASS-04-CATALOGUE.md#src-058--iaa-images-of-4q201-and-4q202) | Leon Levy Dead Sea Scrolls Digital Library, 4Q201–202 plates | 4Q202 legacy plate overviews inspected; precise small-piece alignment pending |
+
+Next available **SRC-059**.
 
 ## Scope of the foundational bibliography
 

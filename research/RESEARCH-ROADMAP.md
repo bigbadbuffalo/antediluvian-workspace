@@ -1,6 +1,6 @@
 # Research Roadmap
 
-**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE; full apparatus refinements deferred. **R2 / Pass 3 bounded source survey recorded; overall RESEARCH IN PROGRESS.** Selected witness variants, 1 Enoch 17–36, Giants, Jubilees 3–10, 1Q20 II–V and broader Enochic coverage are now documented. Substantial ancient-witness collation remains. The author has requested **historical/mythological source coverage before further creative adjudication** (PROC-004). Neither Enochic research nor all historical-source families are yet exhausted.
+**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE; full apparatus refinements deferred. **R2 / Pass 3 survey and Pass 4 Watchers collation recorded. RESEARCH IN PROGRESS.** Selected witness variants, 1 Enoch 17–36, Giants, Jubilees 3–10, 1Q20 II–V and broader Enochic coverage are now documented. Substantial ancient-witness collation remains. The author has requested **historical/mythological source coverage before further creative adjudication** (PROC-004). Neither Enochic research nor all historical-source families are yet exhausted.
 
 | Phase | Focus | Durable output | Exit criterion |
 | --- | --- | --- | --- |
@@ -17,7 +17,7 @@
 ### Dive disposition
 
 - **001 — Biblical humanity:** Research complete, formal development at REVIEW. See [index](../development/dives/001-biblical-humanity/01-research.md) and [audit/handoff](../development/dives/001-biblical-humanity/04-audit.md).
-- **002 — Enochic traditions:** OPEN at RESEARCH; Pass 3 dossiers and audit saved. Continue witness collation and remaining ancient sources.
+- **002 — Enochic traditions:** OPEN at RESEARCH; Pass 3 dossiers and Pass 4 Watchers witness collation saved. Continue Aramaic chapter 22 witness checks and remaining ancient sources.
 - Later candidate — Human societies in the mature Nephilim age: cities, economies, labor, institutions, inequality and play.
 - 004 — Cain-associated great cities: alternative non-industrial advancement; sorcery, resonance/acoustic levitation and monumental crafts as research candidates; institutional control, costs and provenance audit of modern claims.
 - 005 — Mesopotamian primeval mythologies, comparative cosmology and later wider source traditions.
@@ -28,7 +28,7 @@ Only Dives 001 and 002 are opened, and Dive 002 is a source-reading pass. Other 
 
 ## Exact next package
 
-Pass 3 [Watchers dossier](pass-03/BOOK-OF-WATCHERS.md), [Giants dossier](pass-03/BOOK-OF-GIANTS.md), [Jubilees](pass-03/JUBILEES.md), [Genesis Apocryphon](pass-03/GENESIS-APOCRYPHON.md), [coverage](pass-03/ENOCHIC-COVERAGE.md) and [comparative matrix](pass-03/COMPARATIVE-EVIDENCE.md) are recorded. Resume in Drawnel 2019, 4Q201 frg. 3 ii.15–17 and parallel 4Q202 at 1 Enoch 7:2, then the 6:7 list and 8:1–3. The [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md) gives the next checkpoint for each other family. Next free SRC-052 / CLAIM-125. Deferred technical R1 work remains open.
+The [Pass 4 Watchers collation](pass-04/WATCHERS-WITNESS-COLLATION.md) continues the [Pass 3 dossier](pass-03/BOOK-OF-WATCHERS.md). Resume AF-02 with 4Q206 frg. 2 ii at 1 En. 22:3–7 and 4Q205 frgs. 1–2 at 22:13–14. Use Abate's reproductions from Drawnel to align those lines to the IAA photographs. Test the disputed 4Q202 chapter 22 placement afterward. The [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md) tracks the unresolved AF-01 apparatus and next checkpoints for the other source families. Next free SRC-059 / CLAIM-136. Deferred technical R1 work remains open.
 
 ## Research batch closeout checklist
 

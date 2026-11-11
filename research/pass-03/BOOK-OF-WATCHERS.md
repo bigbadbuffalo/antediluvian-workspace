@@ -2,6 +2,8 @@
 
 **Scope checked 2026-11-10.** 1 Enoch 6–16 selected ancient-language variants and 17–36 continuous close reading. Aramaic and Greek comparisons use edited transcriptions and manuscript profiles. Status by passage follows below. [Pass 2 baseline](../pass-02/BOOK-OF-WATCHERS-6-16.md) · [Atomic claims](CLAIMS-WATCHERS.md).
 
+**Follow-up.** [Pass 4](../pass-04/WATCHERS-WITNESS-COLLATION.md) checks 4Q201 birth-line photographs, 4Q202 bracketed restorations, and selected Greek and Syriac passages. Its continuation supersedes the immediate resumption point below. The witness scopes and access statuses in this dossier describe Pass 3.
+
 ## 1. Witness controls
 
 The Book of the Watchers is an Aramaic Second Temple composition, generally placed by the third or early second century BCE, with uncertain dates for constituent material. The early copies set limits on circulation, distinct from the narrative's primeval date. For cross-language verse numbering this dossier uses the [OCP edition and data](https://pseudepigrapha.org/reader.html?doc=1En.xml) (SRC-024; [edition XML](https://pseudepigrapha.org/static/docs/1En.xml)). Its Greek pane draws on Charles and Black and its Geʿez pane principally on John Rylands Ethiopic MS 23, an eighteenth-century copy (SRC-036). Charles's English, when cited, is SRC-020. OCP contains editorial and translation layers, including a correction layer for the Ethiopic and modern Aramaic supplements. Here “trace” means the editor prints surviving letters or partially legible letters in that location. An entire verse, a proposed line restoration and a visible letter are different kinds of evidence.

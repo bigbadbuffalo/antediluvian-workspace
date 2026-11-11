@@ -112,7 +112,7 @@ Updated 2026-11-10. The [main register](SOURCE-REGISTER.md) indexes these additi
 - **Edition and access.** Henryk Drawnel, Qumran Cave 4: The Aramaic Books of Enoch, in consultation with Émile Puech (Oxford University Press, 2019). [Source](https://www.nli.org.il/en/books/NNL_ALEPH997009971868305171/NLI).
 - **Evidence and verification.** PRIMARY EDITION. Edition and contents verified; full pages and plates queued. Checked 2026-11-10.
 - **Ancient composition and witness.** 4Q201, 202, 204–207 and 212, Second Temple Aramaic; additional versional witnesses.
-- **Passages and limits.** Next access target pp. 59–143 for 4Q201 and corresponding 4Q202 apparatus, then 4Q204–206 and versional excerpts. Do not infer full edition access from SRC-034.
+- **Passages and limits.** Next access target pp. 59–143 for 4Q201 and corresponding 4Q202 apparatus, then 4Q204–206 and versional excerpts. Pass 4 checked a quotation of Drawnel's 4Q202 frgs. 8–12 translation (pp. 158–163) in Orlov p. 200 n. 828, [SRC-056](PASS-04-CATALOGUE.md#src-056--orlovs-quotation-of-drawnel-on-4q202). Full edition access remains open.
 
 ## SRC-050 — Puech's DJD Aramaic and Giants edition
 
