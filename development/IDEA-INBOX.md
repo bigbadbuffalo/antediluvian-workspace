@@ -28,3 +28,7 @@
 
 Move only when useful; preserve decision/dive links.
 
+### Pass 1 research/workshop captured — 2026-11-10
+
+The existing ideas about unequal sophistication, institutions and knowledge control are developed as **P1-01–P1-08, all IDEA**, in [Dive 001 workshop](dives/001-biblical-humanity/02-workshop.md): city obligations, pastoral bargaining, craft transmission, musical memory, metal supply, living ancestors, measures/archives and protection/retaliation. These are not adopted dispositions or new canon. Source findings and next research are in the [research index](dives/001-biblical-humanity/01-research.md).
+

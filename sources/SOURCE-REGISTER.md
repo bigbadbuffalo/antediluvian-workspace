@@ -1,8 +1,36 @@
 # Primary and Secondary Source Register
 
-**State:** Intake candidates, not verified bibliography and not setting canon. Every source added below needs an edition/witness check before supporting factual claims.
+**Updated 2026-11-10:** Pass 1 has 19 stable source records. Checked passages, partial witness histories and bibliography-only next-pass editions are explicitly distinguished. Sources are evidence, not automatic setting canon.
 
-Use [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md) for each verified record, with stable source IDs (SRC-001, SRC-002...). Full text is not required: citation, edition, license and precise references matter more.
+Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
+
+| Source ID | Source / edition | Access and verification |
+| --- | --- | --- |
+| [SRC-001](FOUNDATIONAL-CATALOGUE.md#src-001--genesis-hebrew-text-and-jps-1917) | Genesis, Hebrew text and JPS 1917 | Selected content checked; witness limits in profile |
+| [SRC-002](FOUNDATIONAL-CATALOGUE.md#src-002--greek-genesis-in-nets) | Greek Genesis in NETS | Selected content checked; witness limits in profile |
+| [SRC-003](FOUNDATIONAL-CATALOGUE.md#src-003--net-bible-genesis-4-translation-notes) | NET Bible Genesis 4 translation notes | Selected content checked; witness limits in profile |
+| [SRC-004](FOUNDATIONAL-CATALOGUE.md#src-004--nabre-genesis-and-usccb-annotations) | NABRE Genesis and USCCB annotations | Selected content checked; witness limits in profile |
+| [SRC-005](FOUNDATIONAL-CATALOGUE.md#src-005--christian-biblical-rereadings-hebrews-11-and-matthew-24) | Christian biblical rereadings: Hebrews 11 and Matthew 24 | Selected content checked; witness limits in profile |
+| [SRC-006](FOUNDATIONAL-CATALOGUE.md#src-006--manuscript-custody-and-coverage-controls) | Manuscript custody and coverage controls | Custody metadata checked; exact Qumran coverage PARTIAL |
+| [SRC-007](FOUNDATIONAL-CATALOGUE.md#src-007--wevers-greek-genesis-critical-edition) | Wevers, Greek Genesis critical edition | Bibliography checked; full content/apparatus TO VERIFY |
+| [SRC-008](FOUNDATIONAL-CATALOGUE.md#src-008--carr-formation-of-genesis-111) | Carr, formation of Genesis 1–11 | Bibliography/abstracts checked; full book TO VERIFY |
+| [SRC-009](FOUNDATIONAL-CATALOGUE.md#src-009--josephus-jewish-antiquities-i) | Josephus, Jewish Antiquities I | Selected content checked; witness limits in profile |
+| [SRC-010](FOUNDATIONAL-CATALOGUE.md#src-010--uruk-the-first-city) | Uruk: The First City | Selected content checked; witness limits in profile |
+| [SRC-011](FOUNDATIONAL-CATALOGUE.md#src-011--met-tablet-19884331) | Met tablet 1988.433.1 | Selected content checked; witness limits in profile |
+| [SRC-012](FOUNDATIONAL-CATALOGUE.md#src-012--nickelsburg-1-enoch-1-next-pass-edition) | Nickelsburg, 1 Enoch 1 (next-pass edition) | Bibliography checked; full content/apparatus TO VERIFY |
+| [SRC-013](FOUNDATIONAL-CATALOGUE.md#src-013--stuckenbruck-book-of-giants-next-pass-edition) | Stuckenbruck, Book of Giants (next-pass edition) | Bibliography checked; full content/apparatus TO VERIFY |
+| [SRC-014](FOUNDATIONAL-CATALOGUE.md#src-014--vanderkam-jubilees-next-pass-edition) | VanderKam, Jubilees (next-pass edition) | Bibliography checked; full content/apparatus TO VERIFY |
+| [SRC-015](FOUNDATIONAL-CATALOGUE.md#src-015--fitzmyer-genesis-apocryphon-next-pass-edition) | Fitzmyer, Genesis Apocryphon (next-pass edition) | Bibliography/exhibit metadata checked; columns TO VERIFY |
+| [SRC-016](FOUNDATIONAL-CATALOGUE.md#src-016--lambert-and-millard-atra-ḫasīs-pass-4-edition) | Lambert and Millard, Atra-ḫasīs (Pass 4 edition) | Bibliography checked; full content/apparatus TO VERIFY |
+| [SRC-017](FOUNDATIONAL-CATALOGUE.md#src-017--browndriverbriggs-lexical-controls) | Brown–Driver–Briggs lexical controls | Specified BDB entries checked; print/current lexical review PARTIAL |
+| [SRC-018](FOUNDATIONAL-CATALOGUE.md#src-018--qumran-cave-4-vii-witness-follow-up) | Qumran Cave 4, VII (witness follow-up) | Bibliography checked; full content/apparatus TO VERIFY |
+| [SRC-019](FOUNDATIONAL-CATALOGUE.md#src-019--hurtado-early-greek-manuscript-catalogue) | Hurtado, early Greek manuscript catalogue | Selected catalogue rows visually checked; ancient leaves not collated |
+
+## Scope of the foundational bibliography
+
+SRC-001–011, SRC-017 and SRC-019 provide the accessed Pass 1 baseline with explicit limits. SRC-012–016 are staged leads for Enochic/Jewish and Mesopotamian passes; SRC-007/018 support technical witness follow-up. Do not infer that queued editions have been read or their manuscript dates established. Other comparative texts, historical reception and modern-origin sources remain discovery work.
+
+The candidate queue below is retained for continuity. A candidate is not verified merely because a related edition has now been registered.
 
 ## Candidate discovery queue (unverified)
 

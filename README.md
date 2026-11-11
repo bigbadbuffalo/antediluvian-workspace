@@ -2,7 +2,7 @@
 
 An authoring and research workspace for a tabletop RPG setting in the biblical world before Noah's Flood. The project begins with **Genesis as narrative and theological foundation**, studies ancient Jewish and neighboring traditions on their own terms, and develops an original playable world through explicit creative decisions.
 
-**Phase:** Foundation / source discovery. The author has approved high-level genre, era and people-first setting foundations; detailed encyclopedic lore remains to be researched and developed. See [canon/SETTING-FOUNDATIONS.md](canon/SETTING-FOUNDATIONS.md).
+**Phase:** Pass 1 biblical-humanity research baseline completed, 2026-11-10. High-level foundations remain approved; new institutions, chronology and capabilities remain unapproved. Start with the [Pass 1 humanity dossier](research/pass-01/BIBLICAL-HUMANITY.md) and [Dive 001 research index](development/dives/001-biblical-humanity/01-research.md). See [canon/SETTING-FOUNDATIONS.md](canon/SETTING-FOUNDATIONS.md) for the governing creative direction.
 
 ## Start here
 
@@ -34,7 +34,11 @@ Sources are not interchangeable. “Ancient and attested,” “historically pro
 
 **This GitHub repository is public.** A future page field such as visibility: gm or visibility: spoiler is only *publication metadata*: it does not hide a file from GitHub readers or git history. Do not put secrets, private notes, unrevealed campaign twists, or copyrighted sourcebook scans in this public repository. Move the authoring repository to private or use a separately private storage location before storing confidential material. No public player wiki or deployment pipeline is configured.
 
-## Immediate next step
+## Current research and immediate next step
 
-Follow the staged [research roadmap](research/RESEARCH-ROADMAP.md). Preserve verified citations in the [source register](sources/SOURCE-REGISTER.md) and [claim register](research/SOURCE-AND-CLAIM-REGISTER.md). Research does not create canon; only approved decisions do.
+Pass 1 preserves **19 source records with explicit verification limits, 44 claims, a humanity dossier, chronology/comparison matrices, 12 contamination controls and eight IDEA clusters**. Bibliography-only records are not represented as texts read. No canon article or approved lore decision changed.
+
+Next is **Pass 2A: Book of Watchers**, with the [exact work package and unresolved technical refinements](development/dives/001-biblical-humanity/04-audit.md). Continue routine source work without requiring workshop decisions first. The formal Dive 001 remains open at REVIEW for any future author selection.
+
+Follow the staged [research roadmap](research/RESEARCH-ROADMAP.md); preserve citations in the [source register](sources/SOURCE-REGISTER.md) and [claim register](research/SOURCE-AND-CLAIM-REGISTER.md). Research does not create canon; only approved decisions do.
 

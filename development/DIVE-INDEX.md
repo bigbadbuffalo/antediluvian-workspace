@@ -1,9 +1,12 @@
 # Deep Dive Index
 
-**No formal dives opened yet.** Candidate subjects in [research/RESEARCH-ROADMAP.md](../research/RESEARCH-ROADMAP.md) are plans, not in-progress work.
+**Updated 2026-11-10.** Pass 1's bounded research package is complete. Formal lore development remains distinct from research completion; source limits and optional author choices are preserved.
 
 | Dive | Subject | Stage | Last updated | Decisions | Next action |
 | --- | --- | --- | --- | --- | --- |
+| [001 — Biblical humanity](dives/001-biblical-humanity/01-research.md) | Cain, early occupations, households, cities, longevity and textual limits | REVIEW — research complete; development open | 2026-11-10 | No new lore decisions; DEC-001–007 govern | Review eight IDEA clusters if desired; independently proceed to [Pass 2A](dives/001-biblical-humanity/04-audit.md) |
+
+**Next formal dive:** 002 — Enochic traditions (not yet opened). Next free identifiers: SRC-020 and CLAIM-045. Do not restart IDs or silently complete deferred apparatus work.
 
 ## Naming
 
