@@ -1,6 +1,6 @@
 # Research Roadmap
 
-**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE. Full critical-apparatus and earliest-fragment coverage refinements remain explicitly deferred. All later passes remain unexecuted, apart from small labelled reception/analogy probes and bibliography discovery. No new lore decisions.
+**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE; full apparatus refinements deferred. **R2 / Pass 2A Book of Watchers baseline IN PROGRESS**, with first primary reading and witness inventory saved. The author has requested **historical/mythological source coverage before further creative adjudication** (PROC-004). Neither Enochic research nor all historical-source families are yet exhausted.
 
 | Phase | Focus | Durable output | Exit criterion |
 | --- | --- | --- | --- |
@@ -17,18 +17,18 @@
 ### Dive disposition
 
 - **001 — Biblical humanity:** Research complete, formal development at REVIEW. See [index](../development/dives/001-biblical-humanity/01-research.md) and [audit/handoff](../development/dives/001-biblical-humanity/04-audit.md).
-- **002 — Enochic traditions:** Next formal dive, following the author's ordered passes; not yet opened. Begin Book of Watchers before Giants/Jubilees/Genesis Apocryphon. The earlier numbers below were candidate suggestions, not assigned dives.
+- **002 — Enochic traditions:** OPEN at RESEARCH; Pass 2A text/witness baseline started. Next corroborate editions and variants, then Book of Giants, Jubilees, Genesis Apocryphon in separate source-critical subpackages. No creative selection.
 - Later candidate — Human societies in the mature Nephilim age: cities, economies, labor, institutions, inequality and play (Pass 3).
 - 004 — Cain-associated great cities: alternative non-industrial advancement; sorcery, resonance/acoustic levitation and monumental crafts as research candidates; institutional control, costs and provenance audit of modern claims.
 - 005 — Mesopotamian primeval mythologies, comparative cosmology and later wider source traditions.
 
 **The Flood is contextual:** research it enough to understand the traditions and foreshadowing, not as the campaign's central subject. Apply a **people-first test** to every supernatural deep dive: what changes for a farmer, artisan, laborer, trader, soldier, parent, ruler or worshiper?
 
-Only Dive 001 is opened. Other subjects remain plans, not authorized detailed canon. Existing author inspirations are sufficient for the next source pass.
+Only Dives 001 and 002 are opened, and Dive 002 is a source-reading pass. Other subjects remain plans, not detailed canon. **Defer creative workshop decisions across all dives until the [source coverage map](SOURCE-COVERAGE-MAP.md) has a defensible broad-corpus review.**
 
 ## Exact next package
 
-Follow [Pass 2A in the Dive 001 audit](../development/dives/001-biblical-humanity/04-audit.md): SRC-012, Book of Watchers context and chapters 6–16; first batch CLAIM-045–064. Verify component dates and relevant witnesses; compare teachings against Genesis's human craft founders. Existing queued editions are not content-verified. Next unused source ID: SRC-020. Technical R1 refinements are separately resumable and must not be claimed complete.
+Pass 2A primary-text baseline is recorded in [Book of Watchers dossier](pass-02/BOOK-OF-WATCHERS-6-16.md), with source IDs SRC-020–026 and claim IDs CLAIM-045–068. **Next:** collate actual surviving Aramaic/Greek readings against a modern scholarly edition; do not count edition previews as complete review. Continue separately with Book of Giants (SRC-013), Jubilees (SRC-014) and Genesis Apocryphon (SRC-015). Then complete historical Near Eastern and wider-source map before any major setting choices. Next free SRC-027 / CLAIM-069. Deferred technical R1 tasks remain open.
 
 ## Research batch closeout checklist
 

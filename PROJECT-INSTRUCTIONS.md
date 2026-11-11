@@ -50,6 +50,18 @@ These are binding **design/era directions** (DEC-001 through DEC-007), recorded 
 
 This is approved high-level direction, not license to auto-invent detailed lore. For each substantive creative extension, distinguish research, IDEA and actual DECISION.
 
+## Source-first research phase — author directive, 2026-11-10
+
+**Before deciding additional worldbuilding details, survey the relevant surviving historical, scriptural and mythological sources as comprehensively as practical.** Research first across source families; preserve incompatible witnesses and layered interpretation; do not workshop/adjudicate their truth in the setting until broad source coverage and limitations have been presented. Existing approved DEC-001–007 remain governing design boundaries, not permission to fill speculative gaps.
+
+- First exhaust the **identifiable corpus of materially relevant ancient and historically attested traditions**, including lesser-known variants, earlier manuscripts, and explicitly dated later reception. "Exhaust" means documented breadth and reasonable diminishing returns, **not** a promise that every lost or inaccessible text can be read.
+- Track each family as inventoried / primary text checked / critical witness checked / reception checked / gaps remaining. Treat inaccessible full editions or untranslated fragments as gaps rather than completed research.
+- No new substantive lore DECISION, fictional harmonization or supernatural/technical mechanism while this phase is active, unless the author explicitly overrides this hold. Research may record questions and neutral implications; even speculative worldbuilding workshop work is deferred by default.
+- Historical/mythological source passes come **before** modern conspiracy interpretations or creative syntheses; modern ideas and fiction retain their existing separate labels.
+- Continue automatically through bounded research packages; this hold is not a request for confirmation at each new source.
+
+See [research/SOURCE-COVERAGE-MAP.md](research/SOURCE-COVERAGE-MAP.md) for the coverage inventory and stopping criteria.
+
 ## Development workflow
 
 Formal dives follow [development/DEEP-DIVE-PROTOCOL.md](development/DEEP-DIVE-PROTOCOL.md):

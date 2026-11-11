@@ -17,3 +17,6 @@ Use citations and uncertainty; separate direct textual testimony, interpretation
 
 **Resume:** [Dive 001 audit and exact Pass 2A package](../development/dives/001-biblical-humanity/04-audit.md). No canon was created by Pass 1. Earliest-fragment and full apparatus refinements remain documented, not silently completed.
 
+
+- [SOURCE-COVERAGE-MAP.md](SOURCE-COVERAGE-MAP.md): source-first breadth map, coverage states and completion criteria.
+- [pass-02/BOOK-OF-WATCHERS-6-16.md](pass-02/BOOK-OF-WATCHERS-6-16.md): Enochic primary reading and witness audit, research-only.

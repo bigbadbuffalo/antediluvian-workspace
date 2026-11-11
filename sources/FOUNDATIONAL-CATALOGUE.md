@@ -152,3 +152,53 @@ Records follow SOURCE-ENTRY-TEMPLATE fields. Bibliographic metadata, textual acc
 - **Composition/manuscript distinction:** These dates concern copied Greek material witnesses; they do not date Adam, the Hebrew story's composition or all Greek translation work. They provide concrete early witness controls for SRC-002; no assumption of complete Genesis 1–11 coverage.
 - **Rights/limits:** Copyrighted scholarly table; retain only compact metadata and pointers, not the full table or scan. The facsimile of an ancient leaf was not examined. Scope is selected early manuscripts, not a claim that this list exhausts every current discovery or adjudicates every date.
 - **Setting use/verification log:** Transmission control only; no fictional consequence inferred from parchment or script. Table text and rendered page checked 2026-11-10. Relevant Greek manuscript edition/facsimile collation remains AF-01.
+
+
+## SRC-020 — Charles 1917 public-domain English Enoch
+- **Classification:** Primary-text *English translation/presentation* of the ancient Jewish Book of the Watchers, not itself an ancient manuscript or definitive edition. **VERIFIED text reading:** 1 Enoch 1–16, online chapter by chapter.
+- **Edition:** R. H. Charles, *The Book of Enoch* (London: SPCK, 1917), from [Project Gutenberg eBook 77935](https://www.gutenberg.org/ebooks/77935); readable [chapters 1–16](https://openscrollproject.org/app/ancient/1EN-6) (substitute chapter number). Charles's editorial marks for Greek-only, Ethiopic-only, restorations and difficult readings require attention.
+- **Composition / witnesses:** The underlying Book of Watchers predates earliest Qumran copies; likely originally Aramaic, not a text originally written in English or in 1917. The complete text survives in later Ethiopic transmission; this translation also reflects Greek evidence. See SRC-021/022.
+- **Loci checked:** Chapters 1–5 as introduction; chapters 6–16 closely read, indexed in [Pass 2A dossier](../research/pass-02/BOOK-OF-WATCHERS-6-16.md) and CLAIM-045–068.
+- **Limitations:** A century-old edited translation can reflect its editor's reconstructed text and passage divisions. Specific disputed words, chronology and named angel lists **remain to be checked** against current editions and ancient witnesses.
+- **Rights:** Public-domain US translation; online website presentation and source photos may have separate rights.
+- **Setting status:** None; no ancient assertion automatically establishes fictional canon.
+
+## SRC-021 — Machiela 2023 Aramaic manuscript handbook
+- **Classification:** SCHOLARLY description of authentic Dead Sea Scrolls; **PARTIAL text access / VERIFIED catalogue metadata**, not a complete independently collated edition.
+- **Edition:** Daniel A. Machiela, *A Handbook of the Aramaic Scrolls from the Qumran Caves: Manuscripts, Language, and Scribal Practices* (Brill, 2023), esp. manuscript profiles 4Q201, 4Q202, 4Q204–206. [Open-access publisher PDF](https://brill.com/display/book/9789004513815/9789004513815_webready_content_text.pdf).
+- **Witnesses:** 4Q201 (Enoch a), 4Q202 (Enoch b), 4Q204 (Enoch c), 4Q205 (Enoch d), 4Q206 (Enoch e). The 4Q201 profile reports distinct proposed paleographic datings: Milik ca. 200–150 BCE versus Drawnel ca. 225–175 BCE; these date the **copy**, not composition. The original-language argument is supported by Aramaic copies, but complete textual recovery is not possible.
+- **Specific notes:** 4Q201's verso is a separately labeled, uncertain Hebrew genealogical text (4Q338), not proof of one combined book. Machiela describes different editors' fragment-numbering systems and extensive reconstructions.
+- **Limits:** Publisher PDF text and selected profile extracts consulted; complete fragment-by-fragment line audit and papyrological identification not done. Named date estimates are scholarly paleographic assessments, not radiocarbon-verified years for every witness.
+- **Access:** Publisher PDF was text-accessible in the research environment; visual screenshot request for a page produced a 403, so no claim to having visually examined its parchment images.
+
+## SRC-022 — Gurtner Book of Watchers introduction
+- **Classification:** SCHOLARLY introductory synthesis. **VERIFIED relevant publisher-authorized excerpt**; not full critical-edition collation.
+- **Edition:** Daniel M. Gurtner, *Introducing the Pseudepigrapha of Second Temple Judaism* (Baker Academic, 2020; paperback 2022), chapter 1, especially Book of Watchers manuscript/language discussion. [Publisher excerpt PDF](https://cdn-static.supadu.com/baker-academic-us/pdf/Excerpt_9781540965417.pdf).
+- **Findings:** Book of Watchers presented as a composite; complete Ethiopic witness with earlier fragmentary Aramaic and Greek; 4Q201 preserves portions of chapters 1–10 (perhaps 12), 4Q202 parts of 5–10 and 14, 4Q204 parts of 1–6, 10, 13–15, 31–32 and 35–36, 4Q205 parts of 22 and 25–27, 4Q206 parts of 20–22, 28–29 and 31–34. **Fragment ranges are not complete recovered chapters.**
+- **Variance:** In this scholarly discussion Asa'el in Aramaic/Greek is associated with later Ethiopic Azazel spellings. Do not assume all name forms are identical in every textual stream.
+- **Limitations:** A summary cannot replace the edition's critical apparatus or primary image collation.
+
+## SRC-023 — Bhayro text-critical study
+- **Classification:** SCHOLARLY research; **ABSTRACT VERIFIED, full thesis not read**.
+- **Edition:** Siam Bhayro, *A Text-Critical and Literary Analysis of 1 Enoch 6–11*, PhD thesis, University College London, 2000. [Institutional repository](https://discovery.ucl.ac.uk/id/eprint/10057768/).
+- **Abstract findings:** Discusses Shemihazah and Asael traditions and identifies witnesses including Ethiopic, Greek Codex Panopolitanus, Syncellus excerpts, Syriac and Karshuni, and Qumran Aramaic fragments.
+- **Limits:** Do not attribute conclusions about individual variants or detailed redaction solely to an unread thesis abstract.
+
+## SRC-024 — Online Critical Pseudepigrapha
+- **Classification:** Digital source-edition project; **coverage statement VERIFIED, not all parallel texts reviewed**.
+- **Access:** [1 Enoch reader](https://pseudepigrapha.org/reader.html?doc=1En.xml). The editor's site lists Greek/Latin evidence, Aramaic through chapter 8, one Ethiopic manuscript for the Book of Watchers; Syriac/Coptic material not yet encoded in that reader.
+- **Use:** Future side-by-side witness checks; do not mistake currently encoded coverage for all surviving evidence or a full manuscript collation.
+- **Limits:** Dynamic reader rendered minimal verse text in the research environment; primary chapter analysis used SRC-020.
+
+## SRC-025 — Qumran Digital and Library of Congress witness viewers
+- **Classification:** Transcription/holding records for actual ancient witnesses; **SELECTED LINES VERIFIED**, archaeology/paleography NOT independently inspected.
+- **Access:** [Qumran 4Q201 digital presentation](https://qumran.dev/non_biblical/4Q201/); [DEAPS 4Q201](https://deaps.osu.edu/text_objects/17049); [DEAPS 4Q202](https://deaps.osu.edu/text_objects/17050); [Library of Congress exhibition](https://loc.gov/exhibits/scrolls/scr3.html).
+- **Checked:** 4Q201 is labeled Aramaic Book of Watchers. A selected digital block 4Q201 f1iv preserves specialized divinatory/astral teaching vocabulary and four named heavenly figures; 4Q202 shows partial lines concerning multiplied humanity, daughters and heavenly Watchers. These are edited transcriptions with editorial marks, **not** readings independently made from the physical scroll.
+- **Dates:** Library of Congress exhibition estimates copy ca. 200–150 BCE for 4Q201. Manuscript dates are not dates of narrated primeval events.
+- **Limitations:** Qumran Digital is a developing edition. Confirm restored letters, alternate fragment numbering and translations in a critical edition before precise lexical claims.
+
+## SRC-026 — Reed and Nickelsburg/VanderKam
+- **Classification:** SCHOLARLY interpretation and modern critical translation; **PARTIAL access**.
+- **References:** Annette Yoshiko Reed, “Heavenly Ascent, Angelic Descent, and the Transmission of Knowledge in 1 Enoch 6–16,” in Boustan and Reed (eds.), *Heavenly Realms and Earthly Realities in Late Antique Religions* (Cambridge UP, 2004), pp. 47–66; [accessible author/shared excerpt](https://www.academia.edu/41260314/Annette_Y_Reed_Heavenly_Ascent_Angelic_Descent_and_the_Transmission_of_Knowledge_in_1_Enoch_6_16_in_Ra_anan_S_Boustan_and_Annette_Y_Reed_eds_Heavenly_Realms_and_Earthly_Realities_in_Late_Antique_Religions_Cambridge_Cambridge_University_Press_2004_47_66). George W. E. Nickelsburg and James C. VanderKam, *1 Enoch: The Hermeneia Translation* (Fortress, 2012), [publisher/reader preview](https://biblia.com/api/plugins/embeddedpreview?resourceName=LLS%3AHRMNEIA1ENOCH).
+- **Checked:** Reed excerpt discusses possible Shemihazah/Asael literary strands and reminds that the teaching motif spans both; Nickelsburg/VanderKam preview verifies bibliographic/translation framework and selected passages, NOT complete text.
+- **Limits:** The separation into originally independent strands is a scholarly **model**, not an explicit ancient assertion or unanimous solution. Full contemporary critical collation remains to be done.

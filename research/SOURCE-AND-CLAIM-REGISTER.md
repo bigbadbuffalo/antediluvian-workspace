@@ -51,9 +51,40 @@ Read [the dossier](pass-01/BIBLICAL-HUMANITY.md) for connected findings and [the
 | [CLAIM-043](pass-01/CLAIMS.md#claim-043--the-city-noun-does-not-determine-population) | The city noun does not determine population | SRC-017 | SCHOLARLY | Core attribution VERIFIED; technical semantics/review PARTIAL | UNDECIDED |
 | [CLAIM-044](pass-01/CLAIMS.md#claim-044--cains-speech-before-the-killing-differs-across-presentations) | Cain's speech before the killing differs across presentations | SRC-001 | VARIANT | Edition comparison VERIFIED; origin/priority UNRESOLVED | UNDECIDED |
 
+## Pass 2A — Enochic Book of Watchers (CLAIM-045–068)
+
+All new claims refer to [the Pass 2A claim dossiers](pass-02/CLAIMS.md), inherit SRC-020–026's limits, and remain **UNDECIDED** in setting truth.
+
+| Claim ID | Short proposition | Evidence IDs | Category | Witness review | Setting |
+| --- | --- | --- | --- | --- | --- |
+| [CLAIM-045](pass-02/CLAIMS.md#claim-045--the-book-of-watchers-frames-divine-judgment-and-natural-order) | The Book of Watchers frames divine judgment and natural order | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-046](pass-02/CLAIMS.md#claim-046--a-collective-oath-binds-a-group-of-heavenly-beings) | A collective oath binds a group of heavenly beings | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-047](pass-02/CLAIMS.md#claim-047--a-named-group-of-chiefs-is-listed-but-spelling-is-witness-dependent) | A named group of chiefs is listed, but spelling is witness-dependent | SRC-020, SRC-022 | VARIANT | Partial apparatus | UNDECIDED |
+| [CLAIM-048](pass-02/CLAIMS.md#claim-048--watchers-choose-wives-and-teach-charms-and-plant-knowledge) | Watchers choose wives and teach charms and plant knowledge | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-049](pass-02/CLAIMS.md#claim-049--giants-consume-the-products-of-human-labor) | Giants consume the products of human labor | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-050](pass-02/CLAIMS.md#claim-050--giants-attack-humans-and-other-creatures) | Giants attack humans and other creatures | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-051](pass-02/CLAIMS.md#claim-051--a-colossal-giant-height-is-present-in-charless-translation) | A colossal giant height is present in Charles's translation | SRC-020, SRC-026 | VARIANT | Partial apparatus | UNDECIDED |
+| [CLAIM-052](pass-02/CLAIMS.md#claim-052--asaelazazel-is-credited-with-arms-metalwork-and-ornaments) | Asael/Azazel is credited with arms, metalwork and ornaments | SRC-020, SRC-022 | TEXT / VARIANT | Partial apparatus | UNDECIDED |
+| [CLAIM-053](pass-02/CLAIMS.md#claim-053--named-watchers-transmit-magical-and-celestial-arts) | Named Watchers transmit magical and celestial arts | SRC-020, SRC-025 | TEXT / VARIANT | Partial apparatus | UNDECIDED |
+| [CLAIM-054](pass-02/CLAIMS.md#claim-054--four-heavenly-figures-notice-bloodshed-and-lawlessness) | Four heavenly figures notice bloodshed and lawlessness | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-055](pass-02/CLAIMS.md#claim-055--the-appeal-attributes-cosmic-wrongdoing-to-forbidden-instruction-and-unions) | The appeal attributes cosmic wrongdoing to forbidden instruction and unions | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-056](pass-02/CLAIMS.md#claim-056--a-warning-to-noah-occurs-within-the-watchers-narrative) | A warning to Noah occurs within the Watchers narrative | SRC-020 | TEXT / VARIANT | Partial apparatus | UNDECIDED |
+| [CLAIM-057](pass-02/CLAIMS.md#claim-057--azazel-is-bound-and-earth-healing-is-commanded) | Azazel is bound and earth-healing is commanded | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-058](pass-02/CLAIMS.md#claim-058--the-watchers-offspring-are-set-against-one-another) | The Watchers' offspring are set against one another | SRC-020 | TEXT / VARIANT | Partial apparatus | UNDECIDED |
+| [CLAIM-059](pass-02/CLAIMS.md#claim-059--shemihazah-and-associates-receive-a-separate-binding-sentence) | Shemihazah and associates receive a separate binding sentence | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-060](pass-02/CLAIMS.md#claim-060--the-narrative-includes-a-vision-of-future-restored-agricultural-abundance) | The narrative includes a vision of future restored agricultural abundance | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-061](pass-02/CLAIMS.md#claim-061--enoch-is-called-righteous-scribe-and-asked-to-intercede) | Enoch is called righteous scribe and asked to intercede | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-062](pass-02/CLAIMS.md#claim-062--enochs-heavenly-vision-portrays-sacred-architecture-and-throne-imagery) | Enoch's heavenly vision portrays sacred architecture and throne imagery | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-063](pass-02/CLAIMS.md#claim-063--the-heavenly-decree-distinguishes-spirits-of-dead-giants-from-their-fathers) | The heavenly decree distinguishes spirits of dead giants from their fathers | SRC-020, SRC-026 | TEXT / VARIANT | Partial apparatus | UNDECIDED |
+| [CLAIM-064](pass-02/CLAIMS.md#claim-064--illicit-mysteries-are-reproached-and-forgiveness-denied) | Illicit mysteries are reproached and forgiveness denied | SRC-020 | TEXT | Partial apparatus | UNDECIDED |
+| [CLAIM-065](pass-02/CLAIMS.md#claim-065--the-book-of-watchers-is-a-composite-transmitted-through-distinct-languages) | The Book of Watchers is a composite transmitted through distinct languages | SRC-021, SRC-022, SRC-024 | SCHOLARLY | Partial apparatus | UNDECIDED |
+| [CLAIM-066](pass-02/CLAIMS.md#claim-066--4q201-is-an-early-physical-witness-to-book-of-watchers-material) | 4Q201 is an early physical witness to Book of Watchers material | SRC-021, SRC-025 | SCHOLARLY | Partial apparatus | UNDECIDED |
+| [CLAIM-067](pass-02/CLAIMS.md#claim-067--4q202-offers-another-partial-aramaic-witness) | 4Q202 offers another partial Aramaic witness | SRC-021, SRC-022, SRC-025 | SCHOLARLY | Partial apparatus | UNDECIDED |
+| [CLAIM-068](pass-02/CLAIMS.md#claim-068--shemihazah-and-asael-traditions-may-reflect-layered-composition) | Shemihazah and Asael traditions may reflect layered composition | SRC-023, SRC-026 | SCHOLARLY | Partial apparatus | UNDECIDED |
+
 ## Allocation and continuity
 
-Next available: **CLAIM-045**. Do not renumber established claims when correcting them. Supersede an assertion explicitly and retain its provenance. Next research package is [Pass 2A](../development/dives/001-biblical-humanity/04-audit.md).
+Next available: **CLAIM-069**. SRC-027 next. Do not renumber established claims when correcting them. Supersede an assertion explicitly and retain its provenance. Next research package: [Dive 002 source collation and Book of Giants](../development/dives/002-enochic-traditions/01-research.md).
 
 The original schema remains below for new entries. Compact entries can inherit shared fields only when that inheritance is explicit and the linked profile contains them.
 

@@ -7,6 +7,7 @@ This page tracks **author-approved** setting decisions and pointers to authorita
 - **PROC-001:** Use Genesis as the central narrative frame; research authentic ancient extrabiblical and comparative sources, while explicitly labeling later reception, modern speculation, and modern fiction.
 - **PROC-002:** Use Umbrathar/Death Dealers style repo workflow with source, research, development, canon, and future publication separated.
 - **PROC-003:** No player wiki now; design future visibility-aware exports, but do not mistake metadata for repository secrecy.
+- **PROC-004 (2026-11-10):** Author explicitly requests a source-first research phase: comprehensively survey relevant authentic historical/mythological sources, variants and reception before selecting further setting-lore answers. Defer optional workshop choices and canon integration; record coverage and acknowledged gaps. Modern conspiracy motifs follow ancient-source research.
 
 ## Author-approved foundational setting direction — 2026-11-10
 

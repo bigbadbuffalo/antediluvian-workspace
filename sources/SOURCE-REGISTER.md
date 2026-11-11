@@ -1,6 +1,6 @@
 # Primary and Secondary Source Register
 
-**Updated 2026-11-10:** Pass 1 has 19 stable source records. Checked passages, partial witness histories and bibliography-only next-pass editions are explicitly distinguished. Sources are evidence, not automatic setting canon.
+**Updated 2026-11-10:** Pass 1 retains SRC-001–019. Pass 2A adds SRC-020–026, distinguishing an accessed public-domain English primary presentation, manuscript catalogues, and scholarly excerpts/abstracts from full critical editions not actually read. These are research witnesses, not setting canon.
 
 Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
 
@@ -26,9 +26,17 @@ Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). 
 | [SRC-018](FOUNDATIONAL-CATALOGUE.md#src-018--qumran-cave-4-vii-witness-follow-up) | Qumran Cave 4, VII (witness follow-up) | Bibliography checked; full content/apparatus TO VERIFY |
 | [SRC-019](FOUNDATIONAL-CATALOGUE.md#src-019--hurtado-early-greek-manuscript-catalogue) | Hurtado, early Greek manuscript catalogue | Selected catalogue rows visually checked; ancient leaves not collated |
 
+| [SRC-020](FOUNDATIONAL-CATALOGUE.md#src-020--charles-1917-public-domain-english-enoch) | Charles, The Book of Enoch (1917), 1 Enoch 1–16 | Primary English presentation VERIFIED for chapters 1–16; not a new critical apparatus |
+| [SRC-021](FOUNDATIONAL-CATALOGUE.md#src-021--machiela-2023-aramaic-manuscript-handbook) | Machiela, A Handbook of the Aramaic Scrolls from the Qumran Caves (2023) | Scholarly manuscript profiles checked for 4Q201/202 and inventory; full fragment collation incomplete |
+| [SRC-022](FOUNDATIONAL-CATALOGUE.md#src-022--gurtner-book-of-watchers-introduction) | Gurtner, Introducing the Pseudepigrapha (2020/2022), 1 Enoch introduction | Publisher-authorized scholarly excerpt checked; witness ranges and dates qualified |
+| [SRC-023](FOUNDATIONAL-CATALOGUE.md#src-023--bhayro-text-critical-study) | Bhayro, A Text-Critical and Literary Analysis of 1 Enoch 6–11 (2000) | University repository abstract checked; full dissertation NOT reviewed |
+| [SRC-024](FOUNDATIONAL-CATALOGUE.md#src-024--online-critical-pseudepigrapha) | Online Critical Pseudepigrapha, 1 Enoch digital edition | Coverage statement checked; parallel source-data access limited; incomplete Aramaic corpus |
+| [SRC-025](FOUNDATIONAL-CATALOGUE.md#src-025--qumran-digital-and-loc-witness-viewers) | 4Q201 and 4Q202 digital transcriptions; Library of Congress Enoch exhibit | Selected transcription lines and holding metadata checked, no original-paleography audit |
+| [SRC-026](FOUNDATIONAL-CATALOGUE.md#src-026--reed-and-nickelsburg-vanderkam) | Reed (2004) and Nickelsburg/VanderKam (2012) interpretive/translation leads | Reed excerpt and translation preface/preview checked; full critical editions not read |
+
 ## Scope of the foundational bibliography
 
-SRC-001–011, SRC-017 and SRC-019 provide the accessed Pass 1 baseline with explicit limits. SRC-012–016 are staged leads for Enochic/Jewish and Mesopotamian passes; SRC-007/018 support technical witness follow-up. Do not infer that queued editions have been read or their manuscript dates established. Other comparative texts, historical reception and modern-origin sources remain discovery work.
+SRC-001–011, SRC-017 and SRC-019 provide the accessed Pass 1 baseline with explicit limits. **SRC-012–016 remain bibliography/preview leads, not texts fully verified by this pass.** SRC-020–026 provide the bounded Enochic Pass 2A baseline with separate access-status notes; SRC-007/018 support technical witness follow-up. Do not infer that queued editions have been read or their manuscript dates established. Other comparative texts, historical reception and modern-origin sources remain discovery work.
 
 The candidate queue below is retained for continuity. A candidate is not verified merely because a related edition has now been registered.
 
