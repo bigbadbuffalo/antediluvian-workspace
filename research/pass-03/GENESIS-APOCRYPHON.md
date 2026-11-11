@@ -1,0 +1,32 @@
+# Pass 3 — Genesis Apocryphon and Noachic witnesses
+
+**Checked 2026-11-10.** 1Q20 II–V in Daniel A. Machiela's 2007 diplomatic edition and lineated English translation (SRC-041), with the 2023 manuscript profiles (SRC-033). Posen's excerpt (SRC-032) remains a valid narrower source. Other compositions and witnesses are identified individually below.
+
+## Manuscript and date
+
+1Q20 is a single extant Aramaic parchment manuscript from Qumran Cave 1. Early portions are damaged and several columns preserve only islands of text. Palaeographic estimates cluster around the late first century BCE/early first century CE, with a wider history of proposals. Machiela 2007 pp. 298–301 tabulates the palaeographic discussion and radiocarbon measurements. Those date the material or copying horizon, while Machiela pp. 41–42 allows a broad late third to early first century BCE composition range, tied to unresolved relationships with Enochic literature and Jubilees. Genesis, shared sources, and the present scroll are separate levels of evidence.
+
+## 1Q20 II–V
+
+| Locus (Machiela) | Reading | Evidentiary boundary |
+| --- | --- | --- |
+| II.1–7 | Lamech voices suspicions about the Watchers, Holy Ones and a partly restored reference to Nephilim. He questions his wife and demands a truthful account. | Opening first-person suspicion is part of the narrative tension. Labels in the initial list should stay tied to the damaged phrasing. |
+| II.8–18 | Batenosh cries, recalls the couple's intimate encounter, swears by the Great Holy One and King of Heaven, affirms Lamech's paternity and denies a stranger or Watcher. | The oath gives the mother an active evidentiary role. Compare her positive assertion at II.14–16 with Lamech's uncertainty. |
+| II.19–26 | Lamech asks Methuselah to consult Enoch. Enoch has access to what the Holy Ones disclose. Methuselah travels through the land of Parvain in the edition's reading, toward the earth's end. | Geography has damaged edges. The parallel structure of a long journey to consult Enoch appears in Giants 4Q530, with distinct seekers and purpose. |
+| III–IV | Scattered speech, including a reference to the days of Jared, with most of the intervening explanation damaged. | Full narrative from 1 Enoch 106–107 cannot supply missing 1Q20 words. |
+| V.2–13 | Enoch addresses Methuselah. At V.3–4 the edited text contrasts sons of heaven with Lamech as the child's source. V.7 associates Lamech's fear with appearance. V.9–10 repeats the message to convey, with major restoration. V.12–13 speaks of luminous eyes and calls the child a light. | V.3–4 and V.9–10 have different degrees of preservation. Agreement with Batenosh and the end of the dialogue supports the narrative conclusion of human paternity. The bright appearance is a separate description. |
+| V.24–29 | Methuselah relays the revelation. In damaged V.26–27 Lamech rejoices at the report that the child is from him. The transition near V.29 introduces Noah's own discourse in the editor's reading. | Human family testimony, recourse to revelation and relief form the arc of this version. Assign the Book of Noah title or source attribution only after checking the line and its scholarly interpretations. |
+
+## Related but distinct witnesses
+
+| Witness | What the evidence permits | Relationship question |
+| --- | --- | --- |
+| 1 Enoch 106–107 | In the Ethiopic narrative Noah has striking bodily features, lights the house and speaks/blesses. Lamech asks Methuselah to consult Enoch, who confirms human paternity and foretells judgment. Aramaic 4Q204 has parts of 106–107 and Chester Beatty–Michigan has Greek material, with Latin Royal 5 E XIII excerpting 106. | 1Q20 and 106–107 share the striking birth, paternal anxiety and consultation. Exact bodily traits and which words survive must be checked in each manuscript. The shared story permits literary relationship hypotheses and does not establish the sequence or a lost source. |
+| 1Q19 frg. 3 | A damaged Hebrew witness with an unusual-birth episode in editorial interpretation (DJD I pp. 84–85; Machiela 2007 pp. 42–43). | Related tradition is plausible; reconstructing a complete birth account or a verbatim parallel to 1Q20 is premature. |
+| 4Q534 frg. 1 i–ii and frg. 7 | Aramaic “Elect of God” text. Frg. 1 i includes the extraordinary youth, learning associated with three books and knowledge of mysteries in Machiela's description. Frg. 1 ii includes waters and Watcher imagery in broken clauses. | Noah is a candidate identification. Older messianic identification, other names and deliberate anonymity have been proposed. The child's name is not preserved. |
+| 4Q535 frg. 3:4–6 and 4Q536 frg. 1:1–3 | A substantial enough wording overlap for Machiela to treat them as closely related copies. 4Q535 is otherwise very fragmentary. 4Q536 preserves fuller speech, including in frg. 2 ii. | “Birth of Noah” is an editorial title. Do not treat these as 1Q20 fragments or use the label to identify the protagonist. |
+| 4Q534 frg. 7:1–6 and 4Q536 frg. 2 ii:11–13 | Machiela reports a smaller possible overlap, with a noteworthy difference of vacat. 4Q536 2 ii.11 has survival language in the days of evil. | Puech groups the three manuscripts. The relation of 4Q534 is less directly secured by the overlap than that of 4Q535 and 4Q536. The extant names and dramatic sequence must be independently assessed. |
+
+The title “Book of Noah” has been used both for particular text units and for a hypothesized source that different writers might have known. Compare the disagreement summarized in Machiela 2007 pp. 27–47. Jubilees 4:28 also names Betanosh, giving her kinship and Noah's naming in a shorter account. This supports a naming tradition, with neither parentage anxiety nor luminosity asserted there. Likewise the shared territorial division in 1Q20 XVI–XVII and Jubilees 8:11–9:15 offers a separate relationship test and should not predetermine the birth comparison.
+
+**Next verification.** Check Machiela's 2009 edition and Fitzmyer 2004 (SRC-015) against the original images at II.1, II.14–16, V.3–4 and V.10–13, with a separate record for restored names and physical appearance. Then read Puech DJD XXXI pp. 117–186 and the 4Q534–536 overlap photos for precisely which words and vacat survive. Check 1Q19 frg. 3 from the edition before registering particular details as direct text. [Machiela thesis text](https://doczz.net/doc/5270452/the-genesis-apocryphon--1q20-) · [Machiela manuscript profiles](https://brill.com/display/book/9789004513815/BP000012.pdf).

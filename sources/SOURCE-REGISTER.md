@@ -2,7 +2,7 @@
 
 **Updated 2026-11-10:** Pass 1 retains SRC-001–019. Passes 2A–2D add SRC-020–033, distinguishing an accessed public-domain English primary presentation, manuscript catalogues, and scholarly excerpts/abstracts from full critical editions not actually read. These are research witnesses, not setting canon.
 
-Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
+Full annotated records: [Foundational catalogue](FOUNDATIONAL-CATALOGUE.md) and [Pass 3 catalogue](PASS-03-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
 
 | Source ID | Source / edition | Access and verification |
 | --- | --- | --- |
@@ -30,9 +30,9 @@ Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). 
 | [SRC-021](FOUNDATIONAL-CATALOGUE.md#src-021--machiela-2023-aramaic-manuscript-handbook) | Machiela, A Handbook of the Aramaic Scrolls from the Qumran Caves (2023) | Scholarly manuscript profiles checked for 4Q201/202 and inventory; full fragment collation incomplete |
 | [SRC-022](FOUNDATIONAL-CATALOGUE.md#src-022--gurtner-book-of-watchers-introduction) | Gurtner, Introducing the Pseudepigrapha (2020/2022), 1 Enoch introduction | Publisher-authorized scholarly excerpt checked; witness ranges and dates qualified |
 | [SRC-023](FOUNDATIONAL-CATALOGUE.md#src-023--bhayro-text-critical-study) | Bhayro, A Text-Critical and Literary Analysis of 1 Enoch 6–11 (2000) | University repository abstract checked; full dissertation NOT reviewed |
-| [SRC-024](FOUNDATIONAL-CATALOGUE.md#src-024--online-critical-pseudepigrapha) | Online Critical Pseudepigrapha, 1 Enoch digital edition | Coverage statement checked; parallel source-data access limited; incomplete Aramaic corpus |
-| [SRC-025](FOUNDATIONAL-CATALOGUE.md#src-025--qumran-digital-and-loc-witness-viewers) | 4Q201 and 4Q202 digital transcriptions; Library of Congress Enoch exhibit | Selected transcription lines and holding metadata checked, no original-paleography audit |
-| [SRC-026](FOUNDATIONAL-CATALOGUE.md#src-026--reed-and-nickelsburg-vanderkam) | Reed (2004) and Nickelsburg/VanderKam (2012) interpretive/translation leads | Reed excerpt and translation preface/preview checked; full critical editions not read |
+| [SRC-024](FOUNDATIONAL-CATALOGUE.md#src-024--online-critical-pseudepigrapha) | Online Critical Pseudepigrapha, 1 Enoch digital edition | Pass 3 XML checked for selected Greek, Geʿez and Aramaic readings; Watchers Aramaic transcription stops at 8:4 |
+| [SRC-025](FOUNDATIONAL-CATALOGUE.md#src-025--qumran-digital-and-library-of-congress-witness-viewers) | 4Q201 and 4Q202 digital transcriptions; Library of Congress Enoch exhibit | Selected transcription lines and holding metadata checked, no original-paleography audit |
+| [SRC-026](FOUNDATIONAL-CATALOGUE.md#src-026--reed-and-nickelsburgvanderkam) | Reed (2004) and Nickelsburg/VanderKam (2012) interpretive/translation leads | Reed excerpt and translation preface/preview checked; full critical editions not read |
 
 | [SRC-027](FOUNDATIONAL-CATALOGUE.md#src-027--davila-2025-book-of-giants-introduction) | Davila, The Book of Giants: General Introduction (2025) | Publisher excerpt of scholarly synthesis READ; reconstructed narrative is not complete ancient text |
 | [SRC-028](FOUNDATIONAL-CATALOGUE.md#src-028--israel-antiquities-authority-book-of-giants-manuscript-records) | Israel Antiquities Authority, Book of Giants manuscripts 4Q203 and 4Q531 | Original holding/manuscript catalogue metadata READ; inscription images not independently transcribed |
@@ -40,7 +40,31 @@ Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). 
 | [SRC-030](FOUNDATIONAL-CATALOGUE.md#src-030--jubilees-public-domain-english-presentation) | Jubilees chapters 4, 5, 7, 10, Charles English presentation | Selected primary English text READ; Hebrew Qumran witness collation pending |
 | [SRC-031](FOUNDATIONAL-CATALOGUE.md#src-031--scholarly-jubilees-manuscript-and-composition-controls) | Jubilees scholarship: textual witnesses and growth | Publisher article intro plus journal abstract CHECKED; full scholarship not read |
 | [SRC-032](FOUNDATIONAL-CATALOGUE.md#src-032--posen-library-genesis-apocryphon-column-ii) | Posen Library, Genesis Apocryphon 1Q20 II | Small translated excerpt and source commentary READ; full column restricted |
-| [SRC-033](FOUNDATIONAL-CATALOGUE.md#src-033--machiela-2023-aramaic-scrolls-relevant-later-source-metadata) | Machiela, Aramaic scrolls: Book of Giants and Genesis Apocryphon metadata | Selected institutional excerpt profiles checked; full physical/critical collation pending |
+| [SRC-033](FOUNDATIONAL-CATALOGUE.md#src-033--machiela-2023-aramaic-scrolls-relevant-later-source-metadata) | Machiela, Aramaic scrolls: Book of Giants and Genesis Apocryphon metadata | Selected profiles checked, including 4Q534–536 and 4Q530; full physical/critical collation pending |
+
+## Pass 3 — witness and edition additions
+
+| Source ID | Source / edition | Access and verification |
+| --- | --- | --- |
+| [SRC-034](PASS-03-CATALOGUE.md#src-034--drawnels-enoch-witness-bibliography) | Drawnel's Enoch witness bibliography | Selected witness tables and version descriptions checked |
+| [SRC-035](PASS-03-CATALOGUE.md#src-035--elledges-qumran-coverage-tables) | Elledge's Qumran coverage tables | Manuscript appendices checked |
+| [SRC-036](PASS-03-CATALOGUE.md#src-036--john-rylands-ethiopic-manuscript-23) | John Rylands Ethiopic manuscript 23 | Holding and date checked; text via SRC-024 |
+| [SRC-037](PASS-03-CATALOGUE.md#src-037--marros-critical-edition-of-book-of-giants-fragments) | Marro's critical edition of Book of Giants fragments | Chapter 5 inventory and selected transcriptions, translations and comparisons checked |
+| [SRC-038](PASS-03-CATALOGUE.md#src-038--moranos-manichaean-giants-survey) | Morano's Manichaean Giants survey | Published fragment list and M 813/I edition discussion checked selectively |
+| [SRC-039](PASS-03-CATALOGUE.md#src-039--hennings-manichaean-book-of-giants-edition) | Henning's Manichaean Book of Giants edition | Selected apparatus and translation, with Marro Appendix I |
+| [SRC-040](PASS-03-CATALOGUE.md#src-040--stuckenbrucks-giants-sequencing-study) | Stuckenbruck's Giants sequencing study | Selected accessible notes on named figures and narrative order checked |
+| [SRC-041](PASS-03-CATALOGUE.md#src-041--machielas-diplomatic-genesis-apocryphon-dissertation) | Machiela's diplomatic Genesis Apocryphon dissertation | II–V text and selected commentary sections checked |
+| [SRC-042](PASS-03-CATALOGUE.md#src-042--vanderkams-2018-jubilees-translation) | VanderKam's 2018 Jubilees translation | Jubilees 3–10 and contextual 1 read |
+| [SRC-043](PASS-03-CATALOGUE.md#src-043--qimrons-hebrew-jubilees-fragments) | Qimron's Hebrew Jubilees fragments | 11Q12 printed pp. 228–229 visually inspected |
+| [SRC-044](PASS-03-CATALOGUE.md#src-044--abates-study-of-the-dead-in-watchers-22) | Abate's study of the dead in Watchers 22 | Greek appendix and selected sections of chapters 2–3 checked |
+| [SRC-045](PASS-03-CATALOGUE.md#src-045--hanneken-on-latin-jubilees) | Hanneken on Latin Jubilees | Transmission and manuscript coverage checked |
+| [SRC-046](PASS-03-CATALOGUE.md#src-046--goff-on-gilgamesh-in-the-book-of-giants) | Goff on Gilgamesh in the Book of Giants | Abstract and position as discussed by Marro checked; full article not verified |
+| [SRC-047](PASS-03-CATALOGUE.md#src-047--peterss-enochic-chronology-and-noah-controls) | Peters's Enochic chronology and Noah controls | Enochic composition date and manuscript table consulted |
+| [SRC-048](PASS-03-CATALOGUE.md#src-048--hermeneia-volume-2-on-parables-and-luminaries) | Hermeneia volume 2 on Parables and Luminaries | Publisher-platform synopsis checked; full commentary and text apparatus queued |
+| [SRC-049](PASS-03-CATALOGUE.md#src-049--drawnels-cave-4-aramaic-enoch-edition) | Drawnel's Cave 4 Aramaic Enoch edition | Edition and contents verified; full pages and plates queued |
+| [SRC-050](PASS-03-CATALOGUE.md#src-050--puechs-djd-aramaic-and-giants-edition) | Puech's DJD Aramaic and Giants edition | Bibliographic and derivative readings checked; official volume plates and apparatus queued |
+
+Next available **SRC-051**.
 
 ## Scope of the foundational bibliography
 

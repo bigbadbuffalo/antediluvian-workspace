@@ -22,14 +22,24 @@ Selected English primary text read; witness history, selected Qumran edited tran
 - [CLAIM-069–083](../../../research/pass-02/CLAIMS-2B-2D.md)
 - SRC-027–033 registered; only a scholarly reconstruction/selected English texts and small excerpt have been accessed. This **does not complete** the documentary editions or ancient witnesses.
 
-## Outstanding research
-1. Validate exact Aramaic fragments/Greek and Ge'ez alternate readings in accessible modern critical editions, with restoration controls.
-2. Finish 1 Enoch 17–36 (cosmic/topographical visions) with appropriate restrictions on physical mapping.
-3. Read Book of Giants primary witnesses and distinguish later Manichaean reception.
-4. Read Jubilees, Genesis Apocryphon, other relevant Enochic texts with independent dating.
-5. Preserve source contradictions, date ranges and human consequences as documentary observations only.
+## Pass 3 — witness checks and extended corpus
 
-## Continuity
-Last used SRC-033, CLAIM-083; next free SRC-034, CLAIM-084. Update claim/source master indexes before changing this pointer.
+- [Book of the Watchers](../../../research/pass-03/BOOK-OF-WATCHERS.md)
+- [Book of Giants](../../../research/pass-03/BOOK-OF-GIANTS.md)
+- [Jubilees](../../../research/pass-03/JUBILEES.md)
+- [Genesis Apocryphon](../../../research/pass-03/GENESIS-APOCRYPHON.md)
+- [Further Enochic literature](../../../research/pass-03/ENOCHIC-COVERAGE.md)
+- [Comparative evidence matrix](../../../research/pass-03/COMPARATIVE-EVIDENCE.md)
+- [Source entries SRC-034–050](../../../sources/PASS-03-CATALOGUE.md)
+- [CLAIM-084–101](../../../research/pass-03/CLAIMS-WATCHERS.md) and [CLAIM-102–121](../../../research/pass-03/CLAIMS-COMPARATIVE.md)
+- [Evidence and continuation audit](04-audit.md)
 
-No player wiki; repository public. No secret lore or proprietary edition scans committed.
+The 17–36 close reading is complete in the specified Geʿez presentation. Selected ancient-language transcriptions and 11Q12's critical edition were inspected. All ten Giants manuscript groups have an edition and fragment inventory with selected readings. The Apocryphon II–V and Jubilees 3–10 received bounded readings in named editions, and the other 1 Enoch components received a witness and passage survey. The full critical collation of original manuscripts remains open.
+
+## Current checkpoint
+
+Last primary verification within this batch: **SRC-043, Qimron, 11Q12 frgs. 1–7**, printed pp. 228–229 (PDF pp. 520–521), especially the housebuilding traces and the partially preserved Nephilim word. Latest allocated IDs **SRC-050** and **CLAIM-121**. Next available **SRC-051 / CLAIM-122**.
+
+Begin the next source batch at **SRC-049, Drawnel 2019**, 4Q201 frg. 3 ii.15–17 (Milik 1 iii) for 1 Enoch 7:2, then its exact alignment with 4Q202 and the image of the end of the birth line. Consult Greek Black and both Syncellus excerpts in parallel if the Aramaic edition is still unavailable. See [audit](04-audit.md) for the next material issue in each dossier.
+
+Dive 002 remains **RESEARCH** under PROC-004. No setting decision, canon integration or workshop was opened. Repository public.

@@ -242,3 +242,15 @@ Records follow SOURCE-ENTRY-TEMPLATE fields. Bibliographic metadata, textual acc
 - **Edition:** Daniel A. Machiela, *A Handbook of the Aramaic Scrolls from the Qumran Caves* (Brill, 2023), [open access](https://brill.com/display/book/9789004513815/9789004513815_webready_content_text.pdf).
 - **Use:** Source census: Book of Giants 1Q23–24, 2Q26, 4Q203, 4Q530–533, 6Q8; Genesis Apocryphon 1Q20 and related separate Birth of Noah texts 4Q534–536. Do not merge documents with similar characters without arguing textual relationship.
 - **Limitations:** Specific translations, alternate fragment numbers, palaeographic and radiocarbon ranges still demand detailed profile verification.
+
+
+## Pass 3 updates to existing records
+
+- **SRC-021 / SRC-033.** More of Machiela's manuscript profiles were checked, including 4Q205, 4Q208–212, 4Q530 and the relationships among 4Q534–536. These are scholarly witness profiles, with physical collation outstanding.
+- **SRC-023.** The full UCL thesis PDF is available as a scanned document. Its abstract is the basis of the citation in this pass. Full passage checks remain outstanding.
+- **SRC-024.** The [OCP XML](https://pseudepigrapha.org/static/docs/1En.xml) was accessed directly. Selected Greek/Akhmim, Syncellus, Rylands p and Aramaic readings were inspected. The Aramaic Watchers entries consulted stop at 8:4; the digital omissions in Greek quotations likewise require an independent edition control. OCP Rylands p is eighteenth-century SRC-036. Digital editorial readings and English renderings have their own attribution.
+- **SRC-027 / SRC-029.** Retain Davila's reconstruction and CAL provenance. Individual passage checks now use Marro's fragment edition (SRC-037), Stuckenbruck's sequencing paper (SRC-040), and the leads to official editions in SRC-050.
+- **SRC-030 / SRC-031.** The continuous Charles comparison remains in use. VanderKam 2018 and Qimron's Hebrew edition provide new controls in SRC-042–043. Hanneken identifies the extant Latin coverage in SRC-045.
+- **SRC-032.** The Posen excerpt controls 1Q20 II. The broader diplomatic text and translation checked in Pass 3 come from Machiela 2007 (SRC-041). Keep those provenance trails distinct.
+
+Continue with the [Pass 3 annotated catalogue](PASS-03-CATALOGUE.md), SRC-034–050.

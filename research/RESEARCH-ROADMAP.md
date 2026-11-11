@@ -1,6 +1,6 @@
 # Research Roadmap
 
-**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE; full apparatus refinements deferred. **R2 / initial Passes 2A–2D text/source survey IN PROGRESS**, with first readings of Book of Watchers, Book of Giants, Jubilees and Genesis Apocryphon saved; substantial ancient-witness collation remains. The author has requested **historical/mythological source coverage before further creative adjudication** (PROC-004). Neither Enochic research nor all historical-source families are yet exhausted.
+**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE; full apparatus refinements deferred. **R2 / Pass 3 bounded source survey recorded; overall RESEARCH IN PROGRESS.** Selected witness variants, 1 Enoch 17–36, Giants, Jubilees 3–10, 1Q20 II–V and broader Enochic coverage are now documented. Substantial ancient-witness collation remains. The author has requested **historical/mythological source coverage before further creative adjudication** (PROC-004). Neither Enochic research nor all historical-source families are yet exhausted.
 
 | Phase | Focus | Durable output | Exit criterion |
 | --- | --- | --- | --- |
@@ -17,8 +17,8 @@
 ### Dive disposition
 
 - **001 — Biblical humanity:** Research complete, formal development at REVIEW. See [index](../development/dives/001-biblical-humanity/01-research.md) and [audit/handoff](../development/dives/001-biblical-humanity/04-audit.md).
-- **002 — Enochic traditions:** OPEN at RESEARCH; Pass 2A text/witness baseline started. Next corroborate editions and variants, then Book of Giants, Jubilees, Genesis Apocryphon in separate source-critical subpackages. No creative selection.
-- Later candidate — Human societies in the mature Nephilim age: cities, economies, labor, institutions, inequality and play (Pass 3).
+- **002 — Enochic traditions:** OPEN at RESEARCH; Pass 3 dossiers and audit saved. Continue witness collation and remaining ancient sources.
+- Later candidate — Human societies in the mature Nephilim age: cities, economies, labor, institutions, inequality and play.
 - 004 — Cain-associated great cities: alternative non-industrial advancement; sorcery, resonance/acoustic levitation and monumental crafts as research candidates; institutional control, costs and provenance audit of modern claims.
 - 005 — Mesopotamian primeval mythologies, comparative cosmology and later wider source traditions.
 
@@ -28,7 +28,7 @@ Only Dives 001 and 002 are opened, and Dive 002 is a source-reading pass. Other 
 
 ## Exact next package
 
-Pass 2A English Book of Watchers chapters 1–16, with selected witness controls: [dossier](pass-02/BOOK-OF-WATCHERS-6-16.md), CLAIM-045–068. Pass 2B–D first selective surveys: [Book of Giants, Jubilees, Genesis Apocryphon dossier](pass-02/GIANTS-JUBILEES-GENESIS-APOCRYPHON.md), CLAIM-069–083. **Next:** fully collate Aramaic/Greek/Ge'ez witnesses and editions; read 1 Enoch 17–36, Book of Giants original fragments, Jubilees Hebrew variants and complete 1Q20. Then independently investigate other ancient Jewish and Near Eastern sources before major fictional decisions. Next free SRC-034 / CLAIM-084. Deferred technical R1 work remains open.
+Pass 3 [Watchers dossier](pass-03/BOOK-OF-WATCHERS.md), [Giants dossier](pass-03/BOOK-OF-GIANTS.md), [Jubilees](pass-03/JUBILEES.md), [Genesis Apocryphon](pass-03/GENESIS-APOCRYPHON.md), [coverage](pass-03/ENOCHIC-COVERAGE.md) and [comparative matrix](pass-03/COMPARATIVE-EVIDENCE.md) are recorded. Resume in Drawnel 2019, 4Q201 frg. 3 ii.15–17 and parallel 4Q202 at 1 Enoch 7:2, then the 6:7 list and 8:1–3. The [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md) gives the next checkpoint for each other family. Next free SRC-051 / CLAIM-122. Deferred technical R1 work remains open.
 
 ## Research batch closeout checklist
 
