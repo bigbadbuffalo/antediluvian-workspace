@@ -127,3 +127,24 @@ Checked 2026-11-10. These entries inherit dates, manuscript conditions and inter
 - **Evidence and reading.** SCHOLARLY. Argues that the western mountain can be read in a Mesopotamian and biblical frame. Greek parallels and influence remain debated.
 - **Verification.** VERIFIED attribution; influence unresolved.
 - **Setting.** UNDECIDED.
+
+## CLAIM-122 — 4Q206 has traces aligned to the throne speech in 14:22
+
+- **Source and pinpoint.** SRC-024, SRC-034, SRC-051. 4Q206 frg. 1 ll. 1–2 in Jacobus citing Drawnel p. 347; Cairo 10759 at Lods pp. 50–51.
+- **Evidence and reading.** VARIANT. Aramaic has encircling and deed-related traces with significant restoration. Akhmim has the fuller divine speech clause. The specific layout hypothesis is scholarly.
+- **Verification.** PARTIAL Aramaic; Greek presentation checked.
+- **Setting.** UNDECIDED.
+
+## CLAIM-123 — 4Q206 preserves part of the identification of Abel and Cain
+
+- **Source and pinpoint.** SRC-044, SRC-049. 4Q206 frg. 2 ii at 1 En. 22:5–7, Drawnel pp. 351–356 via Abate p. 55.
+- **Evidence and reading.** TEXT. The complaint and names are supported in edited Aramaic, including Abel and Cain in 22:7. The fragment supplies no reading of the chamber counts.
+- **Verification.** VERIFIED core in edited fragment; photograph collation pending.
+- **Setting.** UNDECIDED.
+
+## CLAIM-124 — 4Q206 preserves wisdom-tree material beyond Akhmim's endpoint
+
+- **Source and pinpoint.** SRC-024, SRC-049, SRC-051. 4Q206 frg. 5 ll. 1–2, 1 En. 32:6b, Jacobus quoting Drawnel.
+- **Evidence and reading.** VARIANT. The fragment includes traces about the ancient mother, learning and nakedness, following the point where Greek stops. The full clause and reasons for the endpoint remain open.
+- **Verification.** PARTIAL text verified in published excerpt.
+- **Setting.** UNDECIDED.

@@ -104,7 +104,7 @@ Passage-level entries in [Pass 2B–2D claims](pass-02/CLAIMS-2B-2D.md). All rem
 | [CLAIM-082](pass-02/CLAIMS-2B-2D.md#claim-082--genesis-apocryphons-batenosh-rejects-the-suspicious-inference) | Genesis Apocryphon's Batenosh rejects the suspicious inference | SRC-032 | TEXT (excerpt + editorial summary) | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
 | [CLAIM-083](pass-02/CLAIMS-2B-2D.md#claim-083--the-two-lamechs-in-genesis-should-not-be-conflated) | The two Lamechs in Genesis should not be conflated | SRC-001, SRC-030, SRC-032 | TEXT / SOURCE DISTINCTION | Text excerpt / reconstruction only; apparatus incomplete | UNDECIDED |
 
-## Pass 3 — witness, text and comparative claims (CLAIM-084–121)
+## Pass 3 — witness, text and comparative claims (CLAIM-084–124)
 
 The [Watchers claims](pass-03/CLAIMS-WATCHERS.md) and [comparative claims](pass-03/CLAIMS-COMPARATIVE.md) contain edition-level pinpoints and limits. In particular, CLAIM-084–086 supplement CLAIM-051's Charles attribution. CLAIM-109 narrows the witness status of CLAIM-077. CLAIM-115 supplements CLAIM-081–82 with damaged col. V evidence. The older entries retain their source provenance.
 
@@ -149,9 +149,13 @@ The [Watchers claims](pass-03/CLAIMS-WATCHERS.md) and [comparative claims](pass-
 | [CLAIM-120](pass-03/CLAIMS-COMPARATIVE.md#claim-120--the-parables-assigns-weapons-and-writing-to-distinct-named-angels) | The Parables assigns weapons and writing to distinct named angels | SRC-024, SRC-048 | TEXT | VERIFIED in named Geʿez presentation | UNDECIDED |
 | [CLAIM-121](pass-03/CLAIMS-COMPARATIVE.md#claim-121--no-qumran-parables-witness-is-securely-identified-in-consulted-inventories) | No Qumran Parables witness is securely identified in consulted inventories | SRC-034, SRC-047, SRC-048 | SCHOLARLY | VERIFIED inventory statement | UNDECIDED |
 
+| [CLAIM-122](pass-03/CLAIMS-WATCHERS.md#claim-122--4q206-has-traces-aligned-to-the-throne-speech-in-1422) | 4Q206 has traces aligned to the throne speech in 14:22 | SRC-024, SRC-034, SRC-051 | VARIANT | PARTIAL Aramaic; Greek presentation checked | UNDECIDED |
+| [CLAIM-123](pass-03/CLAIMS-WATCHERS.md#claim-123--4q206-preserves-part-of-the-identification-of-abel-and-cain) | 4Q206 preserves part of the identification of Abel and Cain | SRC-044, SRC-049 | TEXT | VERIFIED core in edited fragment; photograph collation pending | UNDECIDED |
+| [CLAIM-124](pass-03/CLAIMS-WATCHERS.md#claim-124--4q206-preserves-wisdom-tree-material-beyond-akhmims-endpoint) | 4Q206 preserves wisdom-tree material beyond Akhmim's endpoint | SRC-024, SRC-049, SRC-051 | VARIANT | PARTIAL text verified in published excerpt | UNDECIDED |
+
 ## Allocation and continuity
 
-Next available: **CLAIM-122**. SRC-051 next. Do not renumber established claims when correcting them. Supersede an assertion explicitly and retain its provenance. Next source-critical package: [Dive 002 audit and continuation](../development/dives/002-enochic-traditions/04-audit.md).
+Next available: **CLAIM-125**. SRC-052 next. Do not renumber established claims when correcting them. Supersede an assertion explicitly and retain its provenance. Next source-critical package: [Dive 002 audit and continuation](../development/dives/002-enochic-traditions/04-audit.md).
 
 The original schema remains below for new entries. Compact entries can inherit shared fields only when that inheritance is explicit and the linked profile contains them.
 

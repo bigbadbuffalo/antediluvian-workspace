@@ -30,15 +30,15 @@ Selected English primary text read; witness history, selected Qumran edited tran
 - [Genesis Apocryphon](../../../research/pass-03/GENESIS-APOCRYPHON.md)
 - [Further Enochic literature](../../../research/pass-03/ENOCHIC-COVERAGE.md)
 - [Comparative evidence matrix](../../../research/pass-03/COMPARATIVE-EVIDENCE.md)
-- [Source entries SRC-034–050](../../../sources/PASS-03-CATALOGUE.md)
-- [CLAIM-084–101](../../../research/pass-03/CLAIMS-WATCHERS.md) and [CLAIM-102–121](../../../research/pass-03/CLAIMS-COMPARATIVE.md)
+- [Source entries SRC-034–051](../../../sources/PASS-03-CATALOGUE.md)
+- [CLAIM-084–101 and CLAIM-122–124](../../../research/pass-03/CLAIMS-WATCHERS.md) and [CLAIM-102–121](../../../research/pass-03/CLAIMS-COMPARATIVE.md)
 - [Evidence and continuation audit](04-audit.md)
 
 The 17–36 close reading is complete in the specified Geʿez presentation. Selected ancient-language transcriptions and 11Q12's critical edition were inspected. All ten Giants manuscript groups have an edition and fragment inventory with selected readings. The Apocryphon II–V and Jubilees 3–10 received bounded readings in named editions, and the other 1 Enoch components received a witness and passage survey. The full critical collation of original manuscripts remains open.
 
 ## Current checkpoint
 
-Last primary verification within this batch: **SRC-043, Qimron, 11Q12 frgs. 1–7**, printed pp. 228–229 (PDF pp. 520–521), especially the housebuilding traces and the partially preserved Nephilim word. Latest allocated IDs **SRC-050** and **CLAIM-121**. Next available **SRC-051 / CLAIM-122**.
+Last edition-level checks: **SRC-044**, 4Q206 and 4Q205 at 1 Enoch 22, and **SRC-051**, 4Q206 frgs. 1 and 5 at 14:22 and 32:6. Hebrew 11Q12 frgs. 1–7 were checked in Qimron, SRC-043, pp. 228–229. Latest allocated IDs **SRC-051** and **CLAIM-124**. Next available **SRC-052 / CLAIM-125**.
 
 Begin the next source batch at **SRC-049, Drawnel 2019**, 4Q201 frg. 3 ii.15–17 (Milik 1 iii) for 1 Enoch 7:2, then its exact alignment with 4Q202 and the image of the end of the birth line. Consult Greek Black and both Syncellus excerpts in parallel if the Aramaic edition is still unavailable. See [audit](04-audit.md) for the next material issue in each dossier.
 

@@ -28,7 +28,7 @@ Only Dives 001 and 002 are opened, and Dive 002 is a source-reading pass. Other 
 
 ## Exact next package
 
-Pass 3 [Watchers dossier](pass-03/BOOK-OF-WATCHERS.md), [Giants dossier](pass-03/BOOK-OF-GIANTS.md), [Jubilees](pass-03/JUBILEES.md), [Genesis Apocryphon](pass-03/GENESIS-APOCRYPHON.md), [coverage](pass-03/ENOCHIC-COVERAGE.md) and [comparative matrix](pass-03/COMPARATIVE-EVIDENCE.md) are recorded. Resume in Drawnel 2019, 4Q201 frg. 3 ii.15–17 and parallel 4Q202 at 1 Enoch 7:2, then the 6:7 list and 8:1–3. The [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md) gives the next checkpoint for each other family. Next free SRC-051 / CLAIM-122. Deferred technical R1 work remains open.
+Pass 3 [Watchers dossier](pass-03/BOOK-OF-WATCHERS.md), [Giants dossier](pass-03/BOOK-OF-GIANTS.md), [Jubilees](pass-03/JUBILEES.md), [Genesis Apocryphon](pass-03/GENESIS-APOCRYPHON.md), [coverage](pass-03/ENOCHIC-COVERAGE.md) and [comparative matrix](pass-03/COMPARATIVE-EVIDENCE.md) are recorded. Resume in Drawnel 2019, 4Q201 frg. 3 ii.15–17 and parallel 4Q202 at 1 Enoch 7:2, then the 6:7 list and 8:1–3. The [Dive 002 audit](../development/dives/002-enochic-traditions/04-audit.md) gives the next checkpoint for each other family. Next free SRC-052 / CLAIM-125. Deferred technical R1 work remains open.
 
 ## Research batch closeout checklist
 

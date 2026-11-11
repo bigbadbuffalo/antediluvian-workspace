@@ -63,8 +63,9 @@ Full annotated records: [Foundational catalogue](FOUNDATIONAL-CATALOGUE.md) and 
 | [SRC-048](PASS-03-CATALOGUE.md#src-048--hermeneia-volume-2-on-parables-and-luminaries) | Hermeneia volume 2 on Parables and Luminaries | Publisher-platform synopsis checked; full commentary and text apparatus queued |
 | [SRC-049](PASS-03-CATALOGUE.md#src-049--drawnels-cave-4-aramaic-enoch-edition) | Drawnel's Cave 4 Aramaic Enoch edition | Edition and contents verified; full pages and plates queued |
 | [SRC-050](PASS-03-CATALOGUE.md#src-050--puechs-djd-aramaic-and-giants-edition) | Puech's DJD Aramaic and Giants edition | Bibliographic and derivative readings checked; official volume plates and apparatus queued |
+| [SRC-051](PASS-03-CATALOGUE.md#src-051--jacobus-on-akhmim-and-qumran-scribal-practice) | Jacobus on Akhmim and Qumran scribal practice | Selected passage transcriptions and scholarly argument checked |
 
-Next available **SRC-051**.
+Next available **SRC-052**.
 
 ## Scope of the foundational bibliography
 

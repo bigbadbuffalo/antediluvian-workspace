@@ -253,4 +253,4 @@ Records follow SOURCE-ENTRY-TEMPLATE fields. Bibliographic metadata, textual acc
 - **SRC-030 / SRC-031.** The continuous Charles comparison remains in use. VanderKam 2018 and Qimron's Hebrew edition provide new controls in SRC-042–043. Hanneken identifies the extant Latin coverage in SRC-045.
 - **SRC-032.** The Posen excerpt controls 1Q20 II. The broader diplomatic text and translation checked in Pass 3 come from Machiela 2007 (SRC-041). Keep those provenance trails distinct.
 
-Continue with the [Pass 3 annotated catalogue](PASS-03-CATALOGUE.md), SRC-034–050.
+Continue with the [Pass 3 annotated catalogue](PASS-03-CATALOGUE.md), SRC-034–051.

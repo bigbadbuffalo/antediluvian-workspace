@@ -75,9 +75,9 @@ Updated 2026-11-10. The [main register](SOURCE-REGISTER.md) indexes these additi
 ## SRC-044 — Abate's study of the dead in Watchers 22
 
 - **Edition and access.** Adam Michael Abate, The Domains and Procedures of the Dead in the Book of the Watchers: A Liturgy from Hell (Ohio State University MA thesis, 2024). [Source](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1721150632906397&disposition=inline).
-- **Evidence and verification.** PRIMARY TEXT PRESENTATION / SCHOLARLY. Greek appendix and selected sections of chapters 2–3 checked. Checked 2026-11-10.
+- **Evidence and verification.** PRIMARY TEXT PRESENTATION / SCHOLARLY. Greek and Aramaic appendices and selected sections of chapters 2–3 checked. Checked 2026-11-10.
 - **Ancient composition and witness.** Ancient Enochic chapter preserved in fragmentary Aramaic, Greek Akhmim and later Geʿez.
-- **Passages and limits.** Treatment of the western mountain, legal appeal, underworld geography and proposed Mesopotamian/Ugaritic and Greek parallels. Inference attributed to author, not part of the ancient text.
+- **Passages and limits.** Appendix pp. 55–56 reproduces Drawnel's 4Q206 frg. 2 ii and 4Q205 frgs. 1–2 with restoration marks and Abate's translation. Treatment of the western mountain, legal appeal, underworld geography and proposed Mesopotamian/Ugaritic and Greek parallels. Inference attributed to author, not part of the ancient text.
 
 ## SRC-045 — Hanneken on Latin Jubilees
 
@@ -120,3 +120,10 @@ Updated 2026-11-10. The [main register](SOURCE-REGISTER.md) indexes these additi
 - **Evidence and verification.** PRIMARY EDITION. Bibliographic and derivative readings checked; official volume plates and apparatus queued. Checked 2026-11-10.
 - **Ancient composition and witness.** Second Temple Aramaic copies of Giants and material labelled Birth of Noah.
 - **Passages and limits.** Giants pp. 9–115; Birth of Noah pp. 117ff. Compare SRC-037 and SRC-033. CAL institutional link provides edition history for Giants.
+
+## SRC-051 — Jacobus on Akhmim and Qumran scribal practice
+
+- **Edition and access.** Helen R. Jacobus, “The influence of ancient Jewish scribal practices on Codex Panopolitanus (the Akhmim Fragment): Links between the Book of the Watchers in 1 Enoch, the Gospel of Peter and the Apocalypse of Peter,” *Journal for the Study of the Pseudepigrapha* (2026), DOI 10.1177/09518207261422280. [Publisher text](https://journals.sagepub.com/doi/10.1177/09518207261422280).
+- **Evidence and verification.** SCHOLARLY / PRIMARY EDITION PRESENTATION. Akhmim and Qumran comparison, printed transcriptions and figure captions checked 2026-11-10. The original photograph hosts did not load during the check.
+- **Ancient composition and witness.** Second Temple Watchers text. Late Second Temple Aramaic 4Q206 and late antique Greek Cairo 10759. Modern transcriptions and translations are a separate layer.
+- **Passages and limits.** 4Q206 frg. 1 ll. 1–2 and Akhmim's change of hand at 14:22; 4Q206 frg. 5 at 32:6b after the Greek stops. Jacobus's theory of intentionally arranged extracts remains an interpretation. Her report of the angel's name at 32:6 in Ethiopic differs from the OCP Rylands English reading. Compare the precise Ethiopic editions before assigning the difference to a scribal variant.
