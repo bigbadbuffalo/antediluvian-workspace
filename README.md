@@ -2,7 +2,7 @@
 
 An authoring and research workspace for a tabletop RPG setting in the biblical world before Noah's Flood. The project begins with **Genesis as narrative and theological foundation**, studies ancient Jewish and neighboring traditions on their own terms, and develops an original playable world through explicit creative decisions.
 
-**Phase:** Foundation / source discovery. No substantive setting lore has yet been approved as canon.
+**Phase:** Foundation / source discovery. The author has approved high-level genre, era and people-first setting foundations; detailed encyclopedic lore remains to be researched and developed. See [canon/SETTING-FOUNDATIONS.md](canon/SETTING-FOUNDATIONS.md).
 
 ## Start here
 

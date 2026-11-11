@@ -2,13 +2,15 @@
 
 **Status:** All entries are IDEA material until specifically adopted. Do not mistake them for canon.
 
-## Candidate ideas from initial project discussion
+## Initial ideas and dispositions
 
-- **IDEA:** A mature age of Nephilim and highly developed human polities, with the Flood a distant or differently understood future.
-- **IDEA:** Human cultures may hold rival, incomplete and propagandistic accounts of divine beings and giants.
-- **IDEA:** Human ingenuity (cities, husbandry, metalwork, music) should create adventure pressures alongside supernatural events.
-- **IDEA:** Explore the historical reception of the Apkallu/Watchers resemblance without simply declaring them identical.
-- **IDEA:** Use modern alternative history as a clearly distinct creative layer after ancient source verification.
+- **Adopted as design foundation (DEC-002/DEC-003):** Mature age of the Nephilim; the Flood is background rather than a primary play loop. Exact dates and whether/how specific characters foresee it remain open.
+- **Adopted as design foundation (DEC-001):** Human ingenuity, social institutions and everyday life are the setting's principal subject alongside supernatural pressures.
+- **Adopted as research/creative direction (DEC-005/DEC-006):** Look seriously at other Near Eastern traditions and advanced Cain-associated cities, with careful separation of ancient attestation from original setting invention.
+- **IDEA:** Human cultures might hold rival, incomplete or propagandistic accounts of divine beings and giants; not yet specified as in-world canon.
+- **IDEA:** Investigate the scholarly reception of possible Apkallu/Watchers parallels without declaring them identical as a shortcut.
+- **IDEA:** Modern alternative history can generate striking but source-labeled inventions after source verification; individual claims remain undecided.
+- **IDEA:** Cainite great cities may be unequal in sophistication: engineering, urban density, metallurgy, esoteric arts, monumental architecture and social control could develop at different rates. No particular technological package has been adopted.
 
 ## Capture template
 

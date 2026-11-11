@@ -35,16 +35,20 @@ A source's religious canonical status is context-specific; do not treat all Chri
 
 Research chronology and influence, do not assume direct borrowing or identification merely from resemblance. Modern claims about giant skeletons, suppressed texts, advanced lost technology, or secret bloodlines need the same source audit as other claims. Avoid circulating invented quotations or undocumented facts.
 
-## Project's provisional creative stance
+## Approved creative foundations (author confirmation 2026-11-10)
 
-- **Biblical core; ancient expansion; independent creative synthesis.**
-- God is approached as real, sovereign, just, and good **within the proposed fictional worldview**; interpretive questions and details remain open.
-- No settled campaign start date, geographic reconstruction, technology level, rules system, or final treatment of Watchers/Nephilim exists yet.
-- The Flood is part of the overarching narrative framework; where play is set relative to it remains undecided.
-- Ordinary human society, cultural systems and daily life matter as much as exceptional supernatural beings.
-- Avoid importing World of Darkness, Vampire: The Masquerade, or other modern creative IP as alleged historical tradition.
+These are binding **design/era directions** (DEC-001 through DEC-006), recorded in [development/DECISION-LOG.md](development/DECISION-LOG.md) and [canon/SETTING-FOUNDATIONS.md](canon/SETTING-FOUNDATIONS.md). They do **not** settle detailed speculative history, physics or the full identities of supernatural beings.
 
-These are **project direction**, not an authorized encyclopedic canon. Do not fill unspecified gaps with invented binding lore.
+- **People first.** Build believable human communities, families, cities, trades, institutions, religions, rivalries, rulers and ordinary experience. Watchers, Nephilim, and other supernatural beings shape or menace that human world; they do not monopolize narrative attention.
+- **Mature age of the Nephilim.** The default period is a developed pre-Flood society in which the Nephilim have become an established presence. The exact chronological date, forms, status and distribution of Nephilim are still to be developed.
+- **Before the Flood, not about the Flood.** Scripturally literate readers may recognize foreshadowing, but default play does not center an impending Flood, countdown, Ark plot, or guaranteed apocalyptic ending. The world must be worth inhabiting on its own terms.
+- **Genre.** Biblical dark fantasy blended with mythic sword-and-sorcery. The setting must produce human-centered adventures, not only religious or supernatural exposition.
+- **Widening mythic source base.** Start with biblical/Enochic sources and ancient Near Eastern traditions, then examine other historically attested prehistoric or ancient religions when useful. Preserve each source's provenance, historical context and meaningful differences before intentional fictional synthesis.
+- **Civilizational ambition.** Powerful Cain-associated urban centers are a desired focus, with very advanced sophistication relative to much of the setting. Actual metallurgy, engineering, supernatural knowledge, population, power sources and technological ceiling are **open design questions**, not claims made by Genesis. Modern alternative-history/conspiracy motifs are optional, explicitly fictionalized research layers, not presumed ancient evidence.
+- **Theological direction (working).** God is understood as real, sovereign, just and good in the proposed fictional worldview; remaining doctrinal questions have not been adjudicated.
+- **Fiction quarantine.** Do not import World of Darkness, Vampire: The Masquerade, or other modern creative IP as alleged ancient historical tradition.
+
+This is approved high-level direction, not license to auto-invent detailed lore. For each substantive creative extension, distinguish research, IDEA and actual DECISION.
 
 ## Development workflow
 

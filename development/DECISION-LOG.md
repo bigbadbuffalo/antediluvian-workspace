@@ -8,12 +8,20 @@ This page tracks **author-approved** setting decisions and pointers to authorita
 - **PROC-002:** Use Umbrathar/Death Dealers style repo workflow with source, research, development, canon, and future publication separated.
 - **PROC-003:** No player wiki now; design future visibility-aware exports, but do not mistake metadata for repository secrecy.
 
-## Setting canon decisions
+## Author-approved foundational setting direction — 2026-11-10
 
-**None recorded.**
+These are approved directly by the author in conversation and integrated as **high-level foundations**, not detailed historical/theological adjudications. Their primary home is [canon/SETTING-FOUNDATIONS.md](../canon/SETTING-FOUNDATIONS.md).
 
-| Decision | Approved proposition | Dive ledger | Target article | Date |
-| --- | --- | --- | --- | --- |
+| Decision | Approved proposition | Basis | Primary home |
+| --- | --- | --- | --- |
+| DEC-001 | **People first:** Human civilization, human agency and ordinary lives are the principal lens; supernatural powers shape, rule, terrorize or guide people but must not eclipse them | Author-confirmed direction | canon/SETTING-FOUNDATIONS.md |
+| DEC-002 | **Mature age of the Nephilim:** Default era is a socially developed pre-Flood world with established Nephilim presence; exact timeline and nature open | Explicit author selection | canon/SETTING-FOUNDATIONS.md |
+| DEC-003 | **The Flood is background:** Biblical foreshadowing is permissible, but default play is not a Flood-centered or ticking-clock campaign | Explicit author direction | canon/SETTING-FOUNDATIONS.md |
+| DEC-004 | **Genre:** Combine biblical dark fantasy with mythic sword-and-sorcery | Explicit author confirmation | canon/SETTING-FOUNDATIONS.md |
+| DEC-005 | **Wider myths:** Incorporate ancient Near Eastern material through deliberate synthesis, then consider other historically attested ancient/prehistoric traditions; do not falsely assert identity or influence | Explicit author direction | canon/SETTING-FOUNDATIONS.md |
+| DEC-006 | **Advanced cities:** Explore Cain-associated great urban centers as notably advanced and powerful; exact technology level and speculative influences remain unresolved | Author direction, with bounded interpretation | canon/SETTING-FOUNDATIONS.md |
 
-Do not insert a setting truth here without explicit author approval or an existing approved decision record.
+**Integration record:** Updated PROJECT-INSTRUCTIONS, project profile, canon foundations, idea inbox, roadmap and open-question ledger. No source-derived supernatural taxonomy, technological specifications or precise dates were approved. Research registers remain non-canon.
+
+New substantive lore remains subject to the normal deep-dive workflow. Do not treat an approved genre/era direction as authority for inventing specific city layouts, dynasties, technology or metaphysical rules without further decisions.
 

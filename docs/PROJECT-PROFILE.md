@@ -2,14 +2,19 @@
 
 **Established direction:** A tabletop roleplaying setting during the pre-Flood era of biblical primeval history. The setting should take ancient myths and historical religious traditions seriously, especially Genesis, 1 Enoch's Watchers narratives, and related lore. Deliberate invention is welcome if distinguished from attested traditions. Modern conspiracy theories are research subjects and creative prompts, not self-authenticating evidence. Modern fantasy lore must be source-quarantined.
 
-## Desired experience
+## Approved setting direction — 2026-11-10
 
-- **Primary genre (working):** Mythic/biblical dark fantasy with potential sword-and-sorcery and lost-world elements.
-- **Narrative premise:** The world is flourishing or decaying under intersecting human agency, spiritual rebellion, acquired knowledge and divine judgment; precise setting era remains undecided.
-- **Worldview (working):** God is real, sovereign, just, and good; not a stock fantasy antagonist.
-- **Research priority:** Authentic ancient testimony and its historical reception before modern retellings.
-- **Creative priority:** Human communities, cities, conflict, moral choices and adventures—not solely a monster catalogue.
-- **Game rules:** Unselected. External RPG materials do not govern assumptions.
+- **Genre:** Biblical dark fantasy **and** mythic sword-and-sorcery, not a Flood-survival simulator.
+- **Primary subject:** People: human cities, families, crafts, institutions, politics, cultures, ambitions, moral choices and adventures. Supernatural beings are real design concerns but are *context and forces* affecting people's lives, not the sole object of play.
+- **Era:** The **mature age of the Nephilim**, after civilizations have had time to develop. Exact chronology, social roles, and geography are open.
+- **Flood:** Part of the biblical frame and possible thematic foreshadowing; **not the central campaign premise** or default narrative countdown.
+- **Civilizational range:** Ambitious, sophisticated and possibly extraordinary Cain-associated cities are important to explore; the actual technological, magical, and economic baseline is not decided.
+- **Mythic reach:** Ancient Near Eastern traditions are desired for intentional synthesis; other attested traditions may be investigated later. Do not confuse mythical similarity with demonstrable historical connection.
+- **Creative license:** Modern Christian conspiracy and alternative-history themes can inform fictional discoveries and extraordinary cities, provided they remain distinguished from ancient evidence.
+- **Worldview (working):** God is real, sovereign, just, and good, not a default fantasy antagonist.
+- **Game rules:** Unselected; no imported mechanics govern lore.
+
+For governing direction see [canon/SETTING-FOUNDATIONS.md](../canon/SETTING-FOUNDATIONS.md) and [development/DECISION-LOG.md](../development/DECISION-LOG.md).
 
 ## Boundaries
 
@@ -17,13 +22,13 @@ Avoid declaring extrabiblical writings canonical scripture for all traditions. A
 
 ## Author decisions not yet made
 
-- Specific chronological window and how imminent the Flood is.
-- Whether Watchers and Nephilim are objectively present in the setting, and in what forms.
-- What portions of Enochic, Jubilees, Mesopotamian, and later lore are true in-world.
-- Map and cosmology: literal, mythic, reconstructed, or invented.
-- Technology/urbanization and the degree of supernatural interference.
-- Preferred tone, campaign model, and game engine.
-- Whether the authoring repository should become private before spoiler-heavy work.
+- Exact chronology and which generation within the mature Nephilim age anchors play.
+- Detailed nature, roles and distribution of Watchers, Nephilim, giants and demons; their narrative presence has been approved at the broad era level, but not their mechanics or ontology.
+- Which details from Enoch, Jubilees, Mesopotamia and other traditions actually occur in-world.
+- Map and cosmology: literal, mythic, reconstructed or invented.
+- The specific capabilities, technologies, powers and limitations of Cain-associated great cities and other polities.
+- Campaign model, play scale and rules engine.
+- Whether the repository becomes private before spoiler-heavy work.
 
 Use [development/OPEN-QUESTIONS.md](../development/OPEN-QUESTIONS.md) to record resolutions rather than inferring answers.
 
