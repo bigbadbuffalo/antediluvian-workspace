@@ -1,6 +1,6 @@
 # Primary and Secondary Source Register
 
-**Updated 2026-11-10:** Pass 1 retains SRC-001–019. Passes 2A–2B add SRC-020–033, distinguishing an accessed public-domain English primary presentation, manuscript catalogues, and scholarly excerpts/abstracts from full critical editions not actually read. These are research witnesses, not setting canon.
+**Updated 2026-11-10:** Pass 1 retains SRC-001–019. Passes 2A–2D add SRC-020–033, distinguishing an accessed public-domain English primary presentation, manuscript catalogues, and scholarly excerpts/abstracts from full critical editions not actually read. These are research witnesses, not setting canon.
 
 Full annotated records: [FOUNDATIONAL-CATALOGUE.md](FOUNDATIONAL-CATALOGUE.md). Entry fields follow [SOURCE-ENTRY-TEMPLATE.md](SOURCE-ENTRY-TEMPLATE.md).
 

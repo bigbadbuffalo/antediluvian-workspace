@@ -1,6 +1,6 @@
 # Historical Source and Claim Register
 
-**Updated 2026-11-10:** CLAIM-001–044 are registered for Pass 1. **All setting statuses remain UNDECIDED.** Verification means accurate attribution to the accessed source presentation, not independent proof that a supernatural narrative happened. Composition and witness profiles are inherited explicitly from the [source catalogue](../sources/FOUNDATIONAL-CATALOGUE.md).
+**Updated 2026-11-10:** CLAIM-001–044 are registered for Pass 1; CLAIM-045–083 for the bounded Pass 2A–2D Enochic source survey. **All setting statuses remain UNDECIDED.** Verification means accurate attribution to the accessed source presentation, not independent proof that a supernatural narrative happened. Composition and witness profiles are inherited explicitly from the [source catalogue](../sources/FOUNDATIONAL-CATALOGUE.md).
 
 Read [the dossier](pass-01/BIBLICAL-HUMANITY.md) for connected findings and [the detailed atomic entries](pass-01/CLAIMS.md) for exact propositions, pinpoints, layers, interpretation, contradictions and limits. Dates/access and potential RPG uses are specified in those entries and their inherited profiles.
 

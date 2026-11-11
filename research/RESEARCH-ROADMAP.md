@@ -1,6 +1,6 @@
 # Research Roadmap
 
-**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE; full apparatus refinements deferred. **R2 / Pass 2A Book of Watchers baseline IN PROGRESS**, with first primary reading and witness inventory saved. The author has requested **historical/mythological source coverage before further creative adjudication** (PROC-004). Neither Enochic research nor all historical-source families are yet exhausted.
+**State, 2026-11-10:** R1 / Pass 1 bounded textual baseline COMPLETE; full apparatus refinements deferred. **R2 / initial Passes 2A–2D text/source survey IN PROGRESS**, with first readings of Book of Watchers, Book of Giants, Jubilees and Genesis Apocryphon saved; substantial ancient-witness collation remains. The author has requested **historical/mythological source coverage before further creative adjudication** (PROC-004). Neither Enochic research nor all historical-source families are yet exhausted.
 
 | Phase | Focus | Durable output | Exit criterion |
 | --- | --- | --- | --- |
